@@ -1,0 +1,104 @@
+---
+title: ''
+author: "Torredemer"
+date: "2026-05-25"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+library(car)
+library(readr)
+DB_ea_sports24_afterprocessing <- read.csv("C:/Users/Paco/Documents/TFM/bases_de_datos/DB_ea_sports24_afterprocessing.csv", sep=";")
+
+fifa_after <- DB_ea_sports24_afterprocessing
+
+df <- fifa_after
+names(df)
+#MODELO LINEAL 0 (solo overall)
+m0 <-lm(df$overall~1, data=df) 
+summary(m0)
+
+```
+```{r}
+mean(df$overall)
+sd(df$overall)
+
+```
+```{r}
+#MODEL LINEAL 1 (overall - attack)
+names(df)
+m1 <- lm(overall~attack, data = df)
+summary(m1)
+
+plot(df$attack, df$overall)
+abline(a=m1$coefficients[1], b = m1$coefficients[2], col = "red")
+
+
+par(mfrow=c(2,2))
+plot(m1)
+```
+```{r}
+#MODELO LINEAL 2 (overall - midfield)
+m2 <- lm(overall~midfield, data = df)
+summary(m2)
+
+plot(df$overall, df$midfield)
+abline(a = m2$coefficients[1], b = m2$coefficients[2], col = "red")
+
+par(mfrow=c(2,2))
+plot(m2)
+
+```
+```{r}
+#MODELO LINEAL 3 (overall - defence)
+m3 <- lm(df$overall~df$defence, data=df)
+summary(m3)
+
+plot(df$overall, df$defence)
+abline(a = m3$coefficients[1], b = m3$coefficients[2], col = "red")
+
+par(mfrow=c(2,2))
+plot(m3)
+```
+
+```{r}
+#MODELO LINEAL 4 (overall - attack + midfield)
+m4 <- lm(overall~attack+midfield, data=df)
+summary(m4)
+
+plot(df$overall, df$attack+df$midfield)
+abline(a = m4$coefficients[1], b = m4$coefficients[2], col = "red")
+
+par(mfrow=c(2,2))
+plot(m4)
+
+confint(m4, level = 0.95)
+```
+
+
+```{r}
+#MODELO LINEAL 5 (overall - attack + midfield + defence)
+m5 <- lm(overall~attack+midfield+defence, data=df)
+summary(m5)
+
+par(mfrow=c(2,2))
+plot(m5)
+
+summary(m5)
+```
+
+
+```{r}
+
+#prediccion de una nueva instancia, por ejemplo un equipo nuevo
+predict(m5, interval = "prediction", newdata = data.frame(attack = 95, midfield = 87, defence = 87))
+```
+
+

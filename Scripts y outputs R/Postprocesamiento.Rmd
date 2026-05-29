@@ -1,0 +1,111 @@
+---
+title: "Postprocesamiento"
+author: "Torredemer"
+date: "2026-05-19"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readr)
+DB_ea_sports24_afterprocessing <- read.csv("C:/Users/Paco/Documents/TFM/bases_de_datos/DB_ea_sports24_afterprocessing.csv", sep=";")
+
+fifa_after <- DB_ea_sports24_afterprocessing
+```
+
+
+```{r}
+
+# Variables numéricas
+
+#top league
+hist(fifa_after$top_league) 
+summary(fifa_after$top_league)
+
+#overall
+hist(fifa_after$overall) 
+summary(fifa_after$overall)
+
+#attack
+hist(fifa_after$attack) 
+summary(fifa_after$attack)
+
+#midfield
+hist(fifa_after$midfield) 
+summary(fifa_after$midfield)
+
+
+#defence
+hist(fifa_after$defence) 
+summary(fifa_after$defence)
+
+ #fifa defensive team width
+hist(fifa_after$def_team_width)
+summary(fifa_after$def_team_width)
+
+
+#fifa defensive team depth
+hist(fifa_after$def_team_depth)
+summary(fifa_after$def_team_depth)
+
+#fifa offensive team width
+hist(fifa_after$off_team_width)
+summary(fifa_after$off_team_width)
+
+#fifa offensive players in box
+hist(fifa_after$off_players_in_box)
+summary(fifa_after$off_players_in_box)
+```
+
+
+```{r}
+sapply(fifa_after,class)
+names(fifa_after)
+
+for (i in 1:ncol(fifa_after)){
+  if(is.character(fifa_after[,i])){
+    fifa_after[,i]<-as.factor(fifa_after[,i])
+  }
+}
+
+#qualitative variables
+
+#home stadium
+barplot(table(fifa_after$home_stadium))
+table(fifa_after$home_stadium)
+pie(table(fifa_after[,9]))
+
+#league name
+barplot(table(fifa_after$league_name))
+table(fifa_after$league_name)
+pie(table(fifa_after[,2]))
+
+
+
+#nationality name
+barplot(table(fifa_after$nationality_name))
+table(fifa_after$nationality_name)
+pie(table(fifa_after[,4]))
+
+#defensive style
+barplot(table(fifa_after$def_style))
+table(fifa_after$def_style)
+pie(table(fifa_after[,10]))
+
+
+#fifa offensive build up play
+barplot(table(fifa_after$off_build_up_play))
+table(fifa_after$off_build_up_play)
+pie(table(fifa_after[,13]))
+
+#fifa offensive chance creation
+barplot(table(fifa_after$off_chance_creation))
+table(fifa_after$off_chance_creation)
+pie(table(fifa_after[,14]))
+```
+

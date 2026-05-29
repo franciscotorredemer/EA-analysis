@@ -1,0 +1,156 @@
+---
+title: "Fase"
+author: "Torredemer"
+date: "2026-05-18"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r }
+library(readr)
+DB_ea_sports24_preprocessing <- read.csv(
+  "C:/Users/Paco/Documents/TFM/bases_de_datos/DB_ea_sports24_preprocessing.csv",
+  sep = ";"
+)
+
+fifa_pre <- DB_ea_sports24_preprocessing
+
+```
+
+
+```{r}
+
+#VARIABLES NUMÉRICAS
+
+
+#league_id
+hist(fifa_pre$league_id)
+summary(fifa_pre$league_id)
+
+#overall
+hist(fifa_pre$overall) 
+summary(fifa_pre$overall)
+
+#attack
+hist(fifa_pre$attack) 
+summary(fifa_pre$attack)
+
+#midfield
+hist(fifa_pre$midfield) 
+summary(fifa_pre$midfield)
+
+
+#defence
+hist(fifa_pre$defence) 
+summary(fifa_pre$defence)
+
+#league level
+hist(fifa_pre$league_level)
+summary(fifa_pre$league_level)
+
+#fifa version
+hist(fifa_pre$fifa_version)
+summary(fifa_pre$fifa_version)
+
+#fifa defensive team width
+hist(fifa_pre$def_team_width)
+summary(fifa_pre$def_team_width)
+
+
+#fifa defensive team depth
+hist(fifa_pre$def_team_depth)
+summary(fifa_pre$def_team_depth)
+
+#fifa offensive team width
+hist(fifa_pre$off_team_width)
+summary(fifa_pre$off_team_width)
+
+#fifa offensive players in box
+hist(fifa_pre$off_players_in_box)
+summary(fifa_pre$off_players_in_box)
+```
+
+
+
+```{r}
+
+#VARIABLES CATEGÓRICAS
+
+
+# Convertimos todas las columnas de tipo character en factores (variables categóricas)
+# para facilitar el análisis estadístico en R
+
+
+sapply(fifa_pre,class)
+names(fifa_pre)
+
+for (i in 1:ncol(fifa_pre)){
+  if(is.character(fifa_pre[,i])){
+    fifa_pre[,i]<-as.factor(fifa_pre[,i])
+  }
+}
+
+#home stadium
+barplot(table(fifa_pre$home_stadium))
+table(fifa_pre$home_stadium)
+pie(table(fifa_pre[,17]))
+
+
+
+#nationality name
+barplot(table(fifa_pre$nationality_name))
+table(fifa_pre$nationality_name)
+pie(table(fifa_pre[,11]))
+
+#league name
+barplot(table(fifa_pre$league_name))
+table(fifa_pre$league_name)
+pie(table(fifa_pre[,8]))
+
+#defensive style
+barplot(table(fifa_pre$def_style))
+table(fifa_pre$def_style)
+pie(table(fifa_pre[,33]))
+
+#fifa offensive build up play
+barplot(table(fifa_pre$off_build_up_play))
+table(fifa_pre$off_build_up_play)
+pie(table(fifa_pre[,41]))
+
+
+#fifa offensive chance creation
+barplot(table(fifa_pre$off_chance_creation))
+table(fifa_pre$off_chance_creation)
+pie(table(fifa_pre[,42]))
+```
+
+
+```{r}
+#missings en home stadium
+# Hemos convertido las cadenas vacías en NA
+# Los valores NA con "Stadium Random"
+
+fifa_pre$home_stadium[fifa_pre$home_stadium== ''] <- NA
+table(is.na(fifa_pre$home_stadium))
+
+for (i in 1:ncol(fifa_pre)){
+  if(is.factor(fifa_pre[,i])){
+    fifa_pre[,i]<-as.character(fifa_pre[,i])
+  }
+}
+<
+fifa_pre$home_stadium[is.na(fifa_pre$home_stadium)] <- "Stadium Random"
+
+table(is.na(fifa_pre$home_stadium))
+
+barplot(table(fifa_pre$home_stadium))
+table(fifa_pre$home_stadium)
+pie(table(fifa_pre[,17]))
+```
+

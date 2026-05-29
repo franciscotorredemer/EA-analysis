@@ -1,0 +1,659 @@
+﻿team_name;league_name;top_league;nationality_name;overall;attack;midfield;defence;home_stadium;def_style;def_team_width;def_team_depth;off_build_up_play;off_chance_creation;off_team_width;off_players_in_box
+Real Madrid;La Liga;1;Spain;85;85;85;83;Estadio Santiago Bernabéu;Balanced;51;71;Balanced;Balanced;51;6
+Manchester City;Premier League;1;England;85;87;86;83;Etihad Stadium;Press after possession loss;71;61;Balanced;Balanced;81;6
+FC Bayern München;Bundesliga;1;Germany;84;90;84;83;Sanderson Park (FIFA 13 NEW generic);Pressure on heavy touch;51;81;Slow build up;Possession;71;8
+FC Barcelona;La Liga;1;Spain;84;84;84;83;El Libertador (La Bombastico);Balanced;61;81;Slow build up;Possession;51;7
+Atlético Madrid;La Liga;1;Spain;83;85;82;81;Wanda Metropolitano;Pressure on heavy touch;61;61;Balanced;Balanced;51;3
+Paris Saint Germain;Ligue 1;1;France;83;86;79;83;Parc des Princes;Press after possession loss;51;71;Slow build up;Possession;51;5
+Liverpool;Premier League;1;England;83;84;82;84;Anfield;Press after possession loss;61;71;Balanced;Balanced;71;5
+Arsenal;Premier League;1;England;82;82;84;81;Emirates Stadium;Press after possession loss;51;61;Slow build up;Possession;61;6
+Manchester United;Premier League;1;England;82;82;83;80;Old Trafford;Pressure on heavy touch;71;71;Slow build up;Possession;71;4
+Inter;Serie A;1;Italy;82;81;82;82;San Siro;Balanced;51;61;Fast build up;Forward runs;51;4
+Borussia Dortmund;Bundesliga;1;Germany;81;81;81;81;Signal Iduna Park;Press after possession loss;51;81;Fast build up;Forward runs;41;6
+Newcastle United;Premier League;1;England;81;79;81;82;St. James' Park;Press after possession loss;51;61;Balanced;Balanced;51;4
+Tottenham Hotspur;Premier League;1;England;81;81;80;79;Tottenham Hotspur Stadium;Pressure on heavy touch;61;61;Slow build up;Possession;71;5
+Napoli;Serie A;1;Italy;81;82;82;80;Stadium Random;Balanced;61;61;Fast build up;Forward runs;61;6
+Bayer 04 Leverkusen;Bundesliga;1;Germany;80;81;81;79;BayArena;Balanced;61;51;Slow build up;Possession;51;4
+RB Leipzig;Bundesliga;1;Germany;80;82;79;79;Red Bull Arena (Leipzig);Press after possession loss;51;71;Balanced;Balanced;51;4
+Sevilla;La Liga;1;Spain;80;80;79;82;Ramón Sánchez-Pizjuán;Pressure on heavy touch;71;71;Slow build up;Possession;81;8
+Aston Villa;Premier League;1;England;80;82;79;79;Villa Park;Pressure on heavy touch;51;51;Fast build up;Forward runs;51;4
+Chelsea;Premier League;1;England;80;77;81;78;Stamford Bridge;Pressure on heavy touch;61;61;Slow build up;Possession;71;5
+Juventus;Serie A;1;Italy;80;81;80;79;Juventus Arena;Pressure on heavy touch;51;41;Long ball;Direct passing;61;3
+Lazio;Serie A;1;Italy;80;81;79;80;Stadium Random;Press after possession loss;61;61;Slow build up;Possession;71;3
+Milan;Serie A;1;Italy;80;81;79;81;San Siro;Press after possession loss;51;61;Fast build up;Forward runs;51;8
+Roma;Serie A;1;Italy;80;82;78;81;Stadium Random;Balanced;61;41;Slow build up;Possession;61;5
+Athletic Club;La Liga;1;Spain;79;77;79;77;Estadio San Mamés;Press after possession loss;51;61;Fast build up;Forward runs;71;5
+Real Betis;La Liga;1;Spain;79;83;79;77;Estadio Benito Villamarín;Press after possession loss;61;71;Slow build up;Possession;61;7
+Real Sociedad;La Liga;1;Spain;79;79;81;79;Reale Arena;Balanced;41;51;Slow build up;Possession;61;6
+Villarreal;La Liga;1;Spain;79;79;80;77;Estadio de la Cerámica;Balanced;61;51;Balanced;Balanced;61;5
+Benfica;Liga Portugal;0;Portugal;79;80;81;77;Estádio da Luz;Press after possession loss;51;71;Balanced;Balanced;61;4
+Porto;Liga Portugal;0;Portugal;78;78;78;77;Estádio do Dragão;Press after possession loss;51;61;Balanced;Balanced;71;6
+Olympique de Marseille;Ligue 1;1;France;78;77;78;78;Orange Vélodrome;Balanced;41;41;Long ball;Direct passing;61;3
+West Ham United;Premier League;1;England;78;78;79;78;London Stadium;Balanced;41;41;Fast build up;Forward runs;61;4
+Atalanta;Serie A;1;Italy;78;79;77;77;Stadium Random;Press after possession loss;41;71;Fast build up;Forward runs;61;5
+Fiorentina;Serie A;1;Italy;78;78;77;78;Stadio Classico;Balanced;41;51;Fast build up;Forward runs;61;7
+Galatasaray;Super Lig;0;Turkey;78;80;79;78;Sanderson Park (FIFA 13 NEW generic);Pressure on heavy touch;51;61;Fast build up;Forward runs;61;6
+VfL Wolfsburg;Bundesliga;1;Germany;77;76;78;75;Volkswagen Arena;Press after possession loss;71;51;Slow build up;Possession;61;6
+FC Union Berlin;Bundesliga;1;Germany;77;77;75;77;Stadion An der Alten Försterei;Pressure on heavy touch;31;37;Long ball;Direct passing;51;4
+Osasuna;La Liga;1;Spain;77;77;77;77;Estadio El Sadar;Balanced;71;71;Fast build up;Forward runs;61;3
+Sporting CP;Liga Portugal;0;Portugal;77;78;77;78;Waldstadion (Fussballstadion);Pressure on heavy touch;51;51;Fast build up;Forward runs;61;4
+Lens;Ligue 1;1;France;77;77;76;77;Ivy Lane;Pressure on heavy touch;51;61;Slow build up;Possession;61;6
+Monaco;Ligue 1;1;Monaco;77;81;77;75;Euro Arena;Pressure on heavy touch;51;51;Slow build up;Possession;51;4
+Everton;Premier League;1;England;77;79;77;75;Goodison Park;Balanced;51;41;Long ball;Direct passing;61;4
+Nottingham Forest;Premier League;1;England;77;75;77;75;The City Ground;Balanced;61;41;Fast build up;Forward runs;71;4
+Fulham;Premier League;1;England;77;76;77;76;Craven Cottage;Press after possession loss;51;71;Balanced;Balanced;61;4
+Brighton & Hove Albion;Premier League;1;England;77;77;77;78;The Amex Stadium;Press after possession loss;51;61;Balanced;Balanced;51;6
+Al Hilal;Pro League;0;Saudi Arabia;77;79;79;74;King Fahd International Stadium;Press after possession loss;51;71;Balanced;Balanced;61;4
+Al Ittihad;Pro League;0;Saudi Arabia;77;83;79;70;King Abdullah Sports City;Pressure on heavy touch;41;51;Fast build up;Forward runs;41;4
+Fenerbahçe;Super Lig;0;Turkey;77;78;76;74;Waldstadion (Fussballstadion);Pressure on heavy touch;51;61;Fast build up;Forward runs;61;4
+Borussia Mönchengladbach;Bundesliga;1;Germany;76;75;76;75;BORUSSIA-PARK;Balanced;61;61;Long ball;Direct passing;61;7
+SC Freiburg;Bundesliga;1;Germany;76;76;76;77;Europa-Park Stadion;Balanced;41;51;Slow build up;Possession;61;4
+Eintracht Frankfurt;Bundesliga;1;Germany;76;76;76;75;Deutsche Bank Park;Balanced;61;51;Balanced;Balanced;51;5
+TSG Hoffenheim;Bundesliga;1;Germany;76;77;76;75;PreZero Arena;Balanced;61;51;Balanced;Balanced;61;8
+Feyenoord;Eredivisie;0;Netherlands;76;76;74;77;Eastpoint Arena (Football Ground);Press after possession loss;61;61;Balanced;Balanced;61;5
+PSV;Eredivisie;0;Netherlands;76;78;74;75;Philips Stadion;Pressure on heavy touch;51;71;Fast build up;Forward runs;51;8
+Celta de Vigo;La Liga;1;Spain;76;79;76;75;Estadio Abanca-Balaídos;Pressure on heavy touch;71;61;Balanced;Balanced;51;3
+Mallorca;La Liga;1;Spain;76;77;77;74;Visit Mallorca Estadi;Balanced;51;41;Balanced;Balanced;61;3
+Rayo Vallecano;La Liga;1;Spain;76;76;77;77;Estadio de Vallecas;Balanced;61;71;Slow build up;Possession;61;7
+Getafe;La Liga;1;Spain;76;82;76;75;Coliseum Alfonso Pérez;Pressure on heavy touch;41;71;Fast build up;Forward runs;71;3
+Girona;La Liga;1;Spain;76;77;76;76;Estadio de Montilivi;Balanced;41;51;Slow build up;Possession;51;6
+Sporting Braga;Liga Portugal;0;Portugal;76;77;77;75;Forest Park Stadium (Square Ground);Pressure on heavy touch;51;51;Balanced;Balanced;61;4
+River Plate;Liga Profesional;0;Argentina;76;75;77;75;El Monumento (Estadio Latino);Pressure on heavy touch;41;71;Slow build up;Possession;51;6
+Lille;Ligue 1;1;France;76;77;75;75;Decathlon Arena;Pressure on heavy touch;51;51;Slow build up;Possession;71;6
+Olympique Lyonnais;Ligue 1;1;France;76;77;75;76;Groupama Stadium;Pressure on heavy touch;51;51;Slow build up;Possession;51;5
+Nice;Ligue 1;1;France;76;77;76;75;Waldstadion (Fussballstadion);Press after possession loss;61;71;Slow build up;Possession;61;7
+Rennes;Ligue 1;1;France;76;77;78;74;Stade Municipal;Balanced;51;51;Balanced;Balanced;51;3
+Wolverhampton Wanderers;Premier League;1;England;76;75;77;76;Molineux Stadium;Press after possession loss;61;81;Fast build up;Forward runs;51;3
+Crystal Palace;Premier League;1;England;76;75;76;76;Selhurst Park;Balanced;51;41;Balanced;Balanced;61;3
+Brentford;Premier League;1;England;76;75;76;76;Stadium_450;Balanced;51;51;Balanced;Balanced;51;4
+Al Nassr;Pro League;0;Saudi Arabia;76;86;77;74;Stade Municipal;Pressure on heavy touch;41;61;Fast build up;Forward runs;51;4
+Palmeiras;Serie A BR;0;Brazil;76;78;77;74;Estadio de las Artes (Generic Stadium NG);Pressure on heavy touch;41;71;Balanced;Balanced;61;6
+Flamengo;Serie A BR;0;Brazil;76;77;76;75;O Dromo;Pressure on heavy touch;61;61;Balanced;Balanced;61;5
+FSV Mainz 05;Bundesliga;1;Germany;75;77;75;74;Opel Arena;Press after possession loss;51;61;Long ball;Direct passing;61;4
+Leicester City;Championship;0;England;75;73;76;75;King Power Stadium;Balanced;51;61;Slow build up;Possession;81;5
+Ajax;Eredivisie;0;Netherlands;75;77;74;73;Johan Cruijff ArenA;Balanced;61;81;Slow build up;Possession;71;7
+Valencia;La Liga;1;Spain;75;74;74;76;Estadio Mestalla;Balanced;61;51;Balanced;Balanced;61;4
+Almería;La Liga;1;Spain;75;75;74;74;Power Horse Stadium;Balanced;41;51;Slow build up;Possession;71;4
+Cádiz;La Liga;1;Spain;75;74;75;73;Nuevo Mirandilla;Balanced;41;41;Long ball;Direct passing;81;5
+Boca Juniors;Liga Profesional;0;Argentina;75;76;73;75;La Bombonera;Balanced;51;61;Fast build up;Forward runs;71;6
+AFC Bournemouth;Premier League;1;England;75;75;75;74;Vitality Stadium;Press after possession loss;61;51;Slow build up;Possession;81;5
+Torino;Serie A;1;Italy;75;76;74;76;Sanderson Park (FIFA 13 NEW generic);Press after possession loss;31;51;Fast build up;Forward runs;61;3
+Monza;Serie A;1;Italy;75;75;75;74;Court Lane;Balanced;61;51;Slow build up;Possession;61;4
+Sassuolo;Serie A;1;Italy;75;78;73;72;Forest Park Stadium (Square Ground);Press after possession loss;51;61;Slow build up;Possession;61;5
+Atlético Mineiro;Serie A BR;0;Brazil;75;77;75;76;O Dromo;Pressure on heavy touch;61;51;Slow build up;Possession;71;6
+Beşiktaş;Super Lig;0;Turkey;75;75;76;75;Waldstadion (Fussballstadion);Press after possession loss;51;71;Slow build up;Possession;71;6
+FC Köln;Bundesliga;1;Germany;74;73;74;73;RheinEnergieStadion;Press after possession loss;41;71;Long ball;Direct passing;71;6
+Werder Bremen;Bundesliga;1;Germany;74;75;74;74;Wohninvest Weserstadion;Pressure on heavy touch;51;51;Balanced;Balanced;61;6
+FC Augsburg;Bundesliga;1;Germany;74;72;74;74;WWK Arena;Balanced;61;51;Long ball;Direct passing;61;4
+Anderlecht;Jupiler Pro League;0;Belgium;74;72;75;71;Stade Municipal;Pressure on heavy touch;61;71;Balanced;Balanced;61;6
+Club Brugge;Jupiler Pro League;0;Belgium;74;72;74;72;Waldstadion (Fussballstadion);Pressure on heavy touch;41;61;Balanced;Balanced;61;4
+Las Palmas;La Liga;1;Spain;74;75;75;72;Estadio de Gran Canaria;Press after possession loss;41;71;Slow build up;Possession;61;6
+Espanyol;La Liga 2;0;Spain;74;76;74;74;RCDE Stadium;Press after possession loss;61;51;Slow build up;Possession;61;4
+Burnley;Premier League;1;England;74;69;74;73;Turf Moor;Pressure on heavy touch;51;61;Slow build up;Possession;71;6
+Celtic;Premiership;0;Scotland;74;74;75;71;Celtic Park;Press after possession loss;61;81;Slow build up;Possession;81;8
+Al Ahli Jeddah;Pro League;0;Saudi Arabia;74;76;76;70;King Abdullah Sports City;Pressure on heavy touch;71;61;Balanced;Balanced;71;5
+Udinese;Serie A;1;Italy;74;74;73;74;Udinese Arena;Balanced;41;51;Slow build up;Possession;71;5
+Bologna;Serie A;1;Italy;74;73;76;73;Euro Arena;Balanced;61;61;Slow build up;Possession;61;7
+Hellas Verona;Serie A;1;Italy;74;71;74;74;Sanderson Park (FIFA 13 NEW generic);Pressure on heavy touch;51;61;Long ball;Direct passing;61;4
+Athletico Paranaense;Serie A BR;0;Brazil;74;74;72;76;Stade Municipal;Balanced;51;61;Slow build up;Possession;51;3
+Internacional;Serie A BR;0;Brazil;74;71;74;75;O Dromo;Balanced;51;51;Long ball;Direct passing;61;4
+Bragantino;Serie A BR;0;Brazil;74;74;73;75;Arena del Centenario (Estadio del Pueblo);Press after possession loss;61;61;Balanced;Balanced;71;3
+Trabzonspor;Super Lig;0;Turkey;74;73;75;71;Sanderson Park (FIFA 13 NEW generic);Balanced;61;51;Slow build up;Possession;61;6
+VfB Stuttgart;Bundesliga;1;Germany;73;76;73;73;Mercedes-Benz Arena (Stuttgart);Balanced;51;51;Balanced;Balanced;71;4
+VfL Bochum 1848;Bundesliga;1;Germany;73;74;73;73;Vonovia Ruhrstadion;Press after possession loss;51;61;Long ball;Direct passing;81;3
+Salzburg;Bundesliga AT;0;Austria;73;69;73;73;Waldstadion (Fussballstadion);Press after possession loss;51;71;Fast build up;Forward runs;61;5
+Leeds United;Championship;0;England;73;72;72;72;Elland Road;Press after possession loss;51;51;Fast build up;Forward runs;61;5
+Southampton;Championship;0;England;73;71;70;74;St. Mary's Stadium;Pressure on heavy touch;51;61;Slow build up;Possession;61;5
+AZ Alkmaar;Eredivisie;0;Netherlands;73;71;73;71;Stadion Neder;Press after possession loss;61;61;Slow build up;Possession;61;6
+Antwerp;Jupiler Pro League;0;Belgium;73;76;72;73;Forest Park Stadium (Square Ground);Balanced;51;51;Balanced;Balanced;51;3
+Genk;Jupiler Pro League;0;Belgium;73;71;72;73;Waldstadion (Fussballstadion);Pressure on heavy touch;61;61;Balanced;Balanced;61;5
+Granada;La Liga;1;Spain;73;76;72;72;Estadio Nuevo Los Cármenes;Balanced;41;51;Fast build up;Forward runs;71;3
+Racing Club;Liga Profesional;0;Argentina;73;74;73;73;Estadio Presidente Perón (El Cilindro);Balanced;61;71;Slow build up;Possession;61;3
+Montpellier;Ligue 1;1;France;73;68;75;73;Forest Park Stadium (Square Ground);Balanced;51;51;Fast build up;Forward runs;51;4
+Nantes;Ligue 1;1;France;73;73;73;73;Estadio de las Artes (Generic Stadium NG);Balanced;51;41;Balanced;Balanced;71;3
+Lorient;Ligue 1;1;France;73;73;73;73;Molton Road (Sheldon Stadium);Balanced;61;51;Balanced;Balanced;61;5
+Stade de Reims;Ligue 1;1;France;73;69;75;72;Stade Municipal;Pressure on heavy touch;61;51;Fast build up;Forward runs;71;3
+Inter Miami;Major League Soccer;0;United States;73;77;71;72;Crown Lane;Balanced;61;51;Slow build up;Possession;71;3
+Sheffield United;Premier League;1;England;73;72;74;72;Bramall Lane;Balanced;61;61;Fast build up;Forward runs;51;4
+Rangers;Premiership;0;Scotland;73;72;74;74;Ibrox Stadium;Press after possession loss;51;71;Slow build up;Possession;51;6
+Empoli;Serie A;1;Italy;73;74;74;72;Euro Arena;Press after possession loss;41;71;Slow build up;Possession;51;7
+Salernitana;Serie A;1;Italy;73;74;73;71;Stadio Classico;Pressure on heavy touch;51;51;Fast build up;Forward runs;71;5
+Genoa;Serie A;1;Italy;73;76;73;71;Stadion Europa (Generic Europe 2);Press after possession loss;51;61;Slow build up;Possession;61;3
+São Paulo;Serie A BR;0;Brazil;73;72;73;73;El Monumento (Estadio Latino);Pressure on heavy touch;41;71;Slow build up;Possession;61;7
+Corinthians;Serie A BR;0;Brazil;73;74;73;74;Stadio Classico;Balanced;51;61;Balanced;Balanced;51;3
+Santos;Serie A BR;0;Brazil;73;74;73;72;Arena del Centenario (Estadio del Pueblo);Balanced;51;61;Fast build up;Forward runs;51;4
+Norwich City;Championship;0;England;72;70;72;71;Carrow Road;Press after possession loss;41;51;Slow build up;Possession;71;4
+Gent;Jupiler Pro League;0;Belgium;72;73;72;70;Stadion Neder;Pressure on heavy touch;51;61;Slow build up;Possession;61;6
+Deportivo Alavés;La Liga;1;Spain;72;73;73;73;Estadio de Mendizorroza;Balanced;51;41;Long ball;Direct passing;61;3
+Real Valladolid;La Liga 2;0;Spain;72;71;72;72;Estadio José Zorrilla;Pressure on heavy touch;51;51;Fast build up;Forward runs;51;5
+Elche;La Liga 2;0;Spain;72;73;71;71;Estadio Martínez Valero;Balanced;51;51;Long ball;Direct passing;51;3
+San Lorenzo;Liga Profesional;0;Argentina;72;71;72;73;El Libertador (La Bombastico);Balanced;51;51;Long ball;Direct passing;51;3
+Estudiantes;Liga Profesional;0;Argentina;72;73;72;72;Stadio Classico;Pressure on heavy touch;51;51;Fast build up;Forward runs;51;6
+Talleres Córdoba;Liga Profesional;0;Argentina;72;71;72;71;O Dromo;Balanced;71;51;Balanced;Balanced;71;3
+Strasbourg;Ligue 1;1;France;72;72;72;72;Stade Municipal;Balanced;41;71;Balanced;Balanced;71;4
+Brest;Ligue 1;1;France;72;72;73;72;Crown Lane;Balanced;61;51;Slow build up;Possession;71;7
+Clermont;Ligue 1;1;France;72;71;72;71;Euro Park;Pressure on heavy touch;61;51;Slow build up;Possession;61;4
+Los Angeles FC;Major League Soccer;0;United States;72;75;71;72;BMO Stadium;Press after possession loss;41;61;Balanced;Balanced;51;6
+Luton Town;Premier League;1;England;72;72;72;72;Court Lane;Pressure on heavy touch;51;51;Balanced;Balanced;71;4
+Lecce;Serie A;1;Italy;72;74;68;72;Stadio Classico;Pressure on heavy touch;51;51;Fast build up;Forward runs;71;3
+Cagliari;Serie A;1;Italy;72;72;72;71;Stadio Classico;Pressure on heavy touch;51;61;Long ball;Direct passing;61;4
+Fluminense;Serie A BR;0;Brazil;72;74;72;72;O Dromo;Balanced;51;51;Slow build up;Possession;51;4
+Adana Demirspor;Super Lig;0;Turkey;72;71;74;73;Stadion Europa (Generic Europe 2);Balanced;51;51;Balanced;Balanced;51;5
+København;Superliga;0;Denmark;72;70;73;72;Eastpoint Arena (Football Ground);Press after possession loss;61;61;Slow build up;Possession;71;6
+Hamburger SV;2. Bundesliga;0;Germany;71;71;71;70;Volksparkstadion;Pressure on heavy touch;61;71;Slow build up;Possession;71;6
+Schalke 04;2. Bundesliga;0;Germany;71;71;70;71;Veltins-Arena;Pressure on heavy touch;51;61;Balanced;Balanced;61;7
+Hertha BSC;2. Bundesliga;0;Germany;71;70;70;72;Olympiastadion;Balanced;51;61;Long ball;Direct passing;61;4
+Darmstadt 98;Bundesliga;1;Germany;71;69;71;71;Forest Park Stadium (Square Ground);Pressure on heavy touch;51;61;Balanced;Balanced;61;3
+Heidenheim;Bundesliga;1;Germany;71;72;70;71;Molton Road (Sheldon Stadium);Balanced;61;41;Long ball;Direct passing;61;3
+Middlesbrough;Championship;0;England;71;69;70;71;Riverside Stadium;Balanced;61;41;Balanced;Balanced;71;5
+West Bromwich Albion;Championship;0;England;71;70;72;70;The Hawthorns;Press after possession loss;51;71;Slow build up;Possession;61;4
+FC Twente;Eredivisie;0;Netherlands;71;70;70;73;Waldstadion (Fussballstadion);Press after possession loss;51;61;Long ball;Direct passing;61;4
+SD Eibar;La Liga 2;0;Spain;71;71;72;71;Municipal de Ipurua;Press after possession loss;51;71;Slow build up;Possession;61;7
+Levante;La Liga 2;0;Spain;71;70;70;71;Estadio Ciutat de València;Balanced;61;61;Balanced;Balanced;71;4
+Millonarios;Liga BetPlay;0;Colombia;71;72;70;71;O Dromo;Balanced;51;51;Slow build up;Possession;51;5
+Vitória SC;Liga Portugal;0;Portugal;71;70;72;69;Stade Municipal;Balanced;51;61;Fast build up;Forward runs;71;3
+Barcelona Guayaquil;Liga Pro;0;Ecuador;71;73;71;70;Stadion Hanguk;Press after possession loss;51;61;Balanced;Balanced;51;3
+Independiente del Valle;Liga Pro;0;Ecuador;71;71;73;69;Stade Municipal;Press after possession loss;51;71;Fast build up;Forward runs;61;4
+Independiente;Liga Profesional;0;Argentina;71;71;72;71;Estadio Libertadores de América;Balanced;51;41;Long ball;Direct passing;71;4
+Lanús;Liga Profesional;0;Argentina;71;71;71;71;Stadio Classico;Balanced;61;61;Balanced;Balanced;61;6
+Colón;Liga Profesional;0;Argentina;71;69;71;71;Stadio Classico;Balanced;41;41;Fast build up;Forward runs;51;4
+Argentinos Juniors;Liga Profesional;0;Argentina;71;72;71;71;Arena del Centenario (Estadio del Pueblo);Press after possession loss;41;61;Balanced;Balanced;61;5
+Defensa y Justicia;Liga Profesional;0;Argentina;71;72;71;70;Arena del Centenario (Estadio del Pueblo);Press after possession loss;51;71;Balanced;Balanced;61;8
+Toulouse;Ligue 1;1;France;71;75;71;72;Stadion Europa (Generic Europe 2);Balanced;61;51;Slow build up;Possession;61;4
+Saint-Étienne;Ligue 2;0;France;71;70;70;71;Ivy Lane;Balanced;41;41;Fast build up;Forward runs;61;4
+Philadelphia Union;Major League Soccer;0;United States;71;71;71;71;Forest Park Stadium (Square Ground);Press after possession loss;41;51;Slow build up;Possession;41;3
+Libertad;Primera División PY;0;Paraguay;71;71;68;70;Arena del Centenario (Estadio del Pueblo);Balanced;51;37;Slow build up;Possession;61;6
+Al Shabab;Pro League;0;Saudi Arabia;71;74;70;70;Stade Kokoto (Generic Africa 2);Balanced;51;51;Fast build up;Forward runs;61;4
+Botafogo;Serie A BR;0;Brazil;71;71;72;70;O Dromo;Balanced;61;51;Long ball;Direct passing;61;4
+Fortaleza;Serie A BR;0;Brazil;71;71;71;72;O Dromo;Pressure on heavy touch;51;61;Fast build up;Forward runs;61;3
+Cremonese;Serie B;0;Italy;71;72;72;70;Stadio Classico;Balanced;51;51;Long ball;Direct passing;51;6
+Young Boys;Super League CH;0;Switzerland;71;74;69;69;Waldstadion (Fussballstadion);Press after possession loss;51;61;Fast build up;Forward runs;71;4
+İstanbul Başakşehir;Super Lig;0;Turkey;71;73;71;71;Stadion Neder;Balanced;61;61;Slow build up;Possession;61;5
+Midtjylland;Superliga;0;Denmark;71;69;70;72;Stadion Neder;Pressure on heavy touch;71;51;Fast build up;Forward runs;51;5
+Hannover 96;2. Bundesliga;0;Germany;70;67;70;70;HDI-Arena;Balanced;41;51;Fast build up;Forward runs;81;6
+Fortuna Düsseldorf;2. Bundesliga;0;Germany;70;69;70;70;Düsseldorf-Arena;Balanced;41;37;Fast build up;Forward runs;51;3
+Malmö FF;Allsvenskan;0;Sweden;70;71;70;70;Stade Municipal;Press after possession loss;51;61;Slow build up;Possession;31;8
+Sturm Graz;Bundesliga AT;0;Austria;70;69;71;70;Stadion Neder;Press after possession loss;71;71;Fast build up;Forward runs;61;3
+Millwall;Championship;0;England;70;72;71;70;Ivy Lane;Balanced;51;41;Long ball;Direct passing;51;4
+Watford;Championship;0;England;70;70;71;69;Vicarage Road;Press after possession loss;51;51;Fast build up;Forward runs;61;4
+Coventry City;Championship;0;England;70;71;71;70;Molton Road (Sheldon Stadium);Press after possession loss;51;61;Fast build up;Forward runs;71;4
+Preston North End;Championship;0;England;70;69;70;68;Molton Road (Sheldon Stadium);Balanced;51;51;Fast build up;Forward runs;61;3
+Stoke City;Championship;0;England;70;71;70;69;Stoke City FC Stadium;Press after possession loss;61;61;Fast build up;Forward runs;61;4
+Hull City;Championship;0;England;70;69;71;70;MKM Stadium;Balanced;41;51;Slow build up;Possession;61;4
+Cardiff City;Championship;0;Wales;70;70;71;68;Cardiff City Stadium;Balanced;51;41;Balanced;Balanced;61;4
+Bodø / Glimt;Eliteserien;0;Norway;70;69;71;71;Town Park;Press after possession loss;61;81;Fast build up;Forward runs;71;5
+FC Utrecht;Eredivisie;0;Netherlands;70;67;70;70;Ivy Lane;Balanced;41;41;Balanced;Balanced;61;3
+Standard Liège;Jupiler Pro League;0;Belgium;70;69;68;68;Waldstadion (Fussballstadion);Pressure on heavy touch;51;51;Balanced;Balanced;51;4
+Sporting Charleroi;Jupiler Pro League;0;Belgium;70;69;71;67;Ivy Lane;Balanced;41;37;Fast build up;Forward runs;51;4
+Union Saint-Gilloise;Jupiler Pro League;0;Belgium;70;68;70;71;Town Park;Press after possession loss;51;51;Long ball;Direct passing;61;4
+Ulsan;K League 1;0;Korea Republic;70;72;69;69;Waldstadion (Fussballstadion);Balanced;51;51;Slow build up;Possession;61;6
+Jeonbuk Motors;K League 1;0;Korea Republic;70;69;70;70;Ivy Lane;Press after possession loss;61;61;Slow build up;Possession;61;8
+Real Zaragoza;La Liga 2;0;Spain;70;70;70;70;El Libertador (La Bombastico);Pressure on heavy touch;61;51;Slow build up;Possession;61;6
+Tenerife;La Liga 2;0;Spain;70;72;70;70;Stadio Classico;Pressure on heavy touch;71;61;Balanced;Balanced;71;3
+Sporting Gijón;La Liga 2;0;Spain;70;69;69;71;Stade Municipal;Balanced;41;41;Fast build up;Forward runs;61;3
+Real Oviedo;La Liga 2;0;Spain;70;69;71;70;Stadion Europa (Generic Europe 2);Pressure on heavy touch;41;51;Long ball;Direct passing;81;3
+Atlético Nacional;Liga BetPlay;0;Colombia;70;69;70;70;El Libertador (La Bombastico);Press after possession loss;41;51;Slow build up;Possession;71;6
+Independiente Medellín;Liga BetPlay;0;Colombia;70;71;70;68;El Libertador (La Bombastico);Balanced;51;51;Slow build up;Possession;51;6
+Rio Ave;Liga Portugal;0;Portugal;70;69;70;70;Stadion 23. Maj;Pressure on heavy touch;51;51;Balanced;Balanced;51;5
+Arouca;Liga Portugal;0;Portugal;70;70;69;70;Aloha Park (Generic Oceania 2);Balanced;41;51;Balanced;Balanced;51;3
+Famalicão;Liga Portugal;0;Portugal;70;71;69;70;_Longville Stadium;Pressure on heavy touch;51;51;Balanced;Balanced;51;4
+LDU Quito;Liga Pro;0;Ecuador;70;71;71;70;Estadio de las Artes (Generic Stadium NG);Balanced;51;71;Balanced;Balanced;61;4
+Vélez Sarsfield;Liga Profesional;0;Argentina;70;73;70;71;Estadio Nacional (El Medio);Press after possession loss;51;61;Balanced;Balanced;51;3
+Rosario Central;Liga Profesional;0;Argentina;70;64;71;70;Stadio Classico;Pressure on heavy touch;71;51;Balanced;Balanced;71;7
+Atlético Tucumán;Liga Profesional;0;Argentina;70;69;71;69;Estadio Nacional (El Medio);Balanced;51;41;Long ball;Direct passing;41;3
+Huracán;Liga Profesional;0;Argentina;70;70;71;69;El Libertador (La Bombastico);Balanced;51;37;Fast build up;Forward runs;61;3
+Tigre;Liga Profesional;0;Argentina;70;70;71;70;Crown Lane;Balanced;51;51;Fast build up;Forward runs;51;4
+Metz;Ligue 1;1;France;70;69;68;71;Forest Park Stadium (Square Ground);Balanced;51;61;Fast build up;Forward runs;51;5
+Le Havre;Ligue 1;1;France;70;70;70;71;Waldstadion (Fussballstadion);Balanced;61;41;Balanced;Balanced;61;3
+New England;Major League Soccer;0;United States;70;70;71;69;Stadion Hanguk;Press after possession loss;41;61;Slow build up;Possession;61;5
+LA Galaxy;Major League Soccer;0;United States;70;70;69;68;Dignity Health Sports Park;Balanced;71;51;Slow build up;Possession;81;6
+Minnesota United;Major League Soccer;0;United States;70;75;70;67;Stadion Hanguk;Balanced;41;37;Balanced;Balanced;61;4
+Portland Timbers;Major League Soccer;0;United States;70;68;71;67;Providence Park;Pressure on heavy touch;51;51;Fast build up;Forward runs;61;4
+Seattle Sounders;Major League Soccer;0;United States;70;71;73;69;Lumen Field;Balanced;41;51;Balanced;Balanced;51;3
+San Jose Earthquakes;Major League Soccer;0;United States;70;72;71;68;Crown Lane;Press after possession loss;81;61;Slow build up;Possession;81;3
+Cincinnati;Major League Soccer;0;United States;70;70;72;67;Stadion Europa (Generic Europe 2);Balanced;41;41;Balanced;Balanced;41;3
+Hearts;Premiership;0;Scotland;70;71;67;69;Ivy Lane;Press after possession loss;41;61;Fast build up;Forward runs;61;5
+Colo-Colo;Primera Division CL;0;Chile;70;68;72;68;Estadio Nacional (El Medio);Balanced;61;41;Balanced;Balanced;71;5
+Olimpia;Primera División PY;0;Paraguay;70;69;69;69;Arena d'Oro;Balanced;61;51;Slow build up;Possession;61;4
+Alianza Lima;Primera Division PE;0;Peru;70;72;70;71;Estadio de las Artes (Generic Stadium NG);Balanced;61;41;Fast build up;Forward runs;51;3
+Peñarol;Primera Division UY;0;Uruguay;70;72;70;69;El Libertador (La Bombastico);Press after possession loss;61;61;Fast build up;Forward runs;71;5
+Nacional;Primera Division UY;0;Uruguay;70;70;70;69;El Libertador (La Bombastico);Balanced;61;61;Fast build up;Forward runs;61;4
+Al Ettifaq;Pro League;0;Saudi Arabia;70;73;73;64;Stade Kokoto (Generic Africa 2);Pressure on heavy touch;51;51;Slow build up;Possession;51;3
+Frosinone;Serie A;1;Italy;70;70;70;67;Stadion Neder;Balanced;61;51;Fast build up;Forward runs;71;4
+América Mineiro;Serie A BR;0;Brazil;70;67;69;71;Estadio Nacional (El Medio);Balanced;51;51;Fast build up;Forward runs;51;3
+Parma;Serie B;0;Italy;70;68;69;65;Arena d'Oro;Balanced;41;41;Long ball;Direct passing;61;5
+Como;Serie B;0;Italy;70;71;70;68;Town Park;Balanced;41;51;Balanced;Balanced;41;3
+Palermo;Serie B;0;Italy;70;72;70;70;Stadio Classico;Balanced;41;51;Slow build up;Possession;61;5
+Pisa;Serie B;0;Italy;70;66;70;67;Stadion 23. Maj;Balanced;61;51;Fast build up;Forward runs;51;3
+Spezia;Serie B;0;Italy;70;69;72;70;Stadium Random;Pressure on heavy touch;51;61;Fast build up;Forward runs;61;5
+Samsunspor;Super Lig;0;Turkey;70;70;71;67;Stadion Europa (Generic Europe 2);Balanced;61;51;Slow build up;Possession;51;3
+Ankaragücü;Super Lig;0;Turkey;70;71;70;68;Molton Road (Sheldon Stadium);Balanced;51;51;Balanced;Balanced;61;3
+Konyaspor;Super Lig;0;Turkey;70;68;70;70;Stadion Europa (Generic Europe 2);Balanced;61;51;Balanced;Balanced;61;5
+Fatih Karagümrük;Super Lig;0;Turkey;70;71;69;70;Stadion Neder;Balanced;61;51;Balanced;Balanced;61;4
+AGF;Superliga;0;Denmark;70;71;68;69;Euro Arena;Press after possession loss;51;51;Fast build up;Forward runs;61;4
+Kaiserslautern;2. Bundesliga;0;Germany;69;70;68;69;Stadion Europa (Generic Europe 2);Balanced;61;51;Long ball;Direct passing;61;5
+Nürnberg;2. Bundesliga;0;Germany;69;65;67;67;Max-Morlock-Stadion;Balanced;51;61;Balanced;Balanced;51;4
+Karlsruher SC;2. Bundesliga;0;Germany;69;74;70;68;Euro Arena;Balanced;41;51;Balanced;Balanced;71;4
+Paderborn;2. Bundesliga;0;Germany;69;71;67;69;Benteler-Arena;Pressure on heavy touch;51;71;Fast build up;Forward runs;61;5
+St. Pauli;2. Bundesliga;0;Germany;69;69;69;70;Millerntor-Stadion;Balanced;61;41;Slow build up;Possession;51;4
+Häcken;Allsvenskan;0;Sweden;69;66;70;68;Molton Road (Sheldon Stadium);Press after possession loss;61;51;Fast build up;Forward runs;61;6
+LASK Linz;Bundesliga AT;0;Austria;69;69;70;69;Stadion Neder;Press after possession loss;41;61;Fast build up;Forward runs;61;6
+Blackburn Rovers;Championship;0;England;69;70;69;70;Ivy Lane;Balanced;51;61;Fast build up;Forward runs;61;3
+Queens Park Rangers;Championship;0;England;69;67;68;69;Kiyan Prince Foundation;Balanced;61;51;Balanced;Balanced;61;3
+Birmingham City;Championship;0;England;69;69;69;69;Ivy Lane;Balanced;51;41;Long ball;Direct passing;81;4
+Ipswich Town;Championship;0;England;69;68;69;69;Ivy Lane;Press after possession loss;61;61;Slow build up;Possession;61;5
+Sunderland;Championship;0;England;69;57;68;69;Stadium of Light;Balanced;51;51;Slow build up;Possession;61;5
+Bristol City;Championship;0;England;69;67;70;69;Stade Municipal;Balanced;71;41;Fast build up;Forward runs;71;4
+Swansea City;Championship;0;Wales;69;70;70;67;Swansea.com Stadium;Balanced;41;51;Slow build up;Possession;61;5
+Lech Poznań;Ekstraklasa;0;Poland;69;73;69;68;Sanderson Park (FIFA 13 NEW generic);Balanced;61;61;Balanced;Balanced;61;5
+Raków Częstochowa;Ekstraklasa;0;Poland;69;69;69;67;_Longville Stadium;Pressure on heavy touch;51;81;Balanced;Balanced;61;4
+NEC;Eredivisie;0;Netherlands;69;70;68;68;Molton Road (Sheldon Stadium);Balanced;61;51;Balanced;Balanced;61;3
+SC Heerenveen;Eredivisie;0;Netherlands;69;70;69;68;Waldstadion (Fussballstadion);Balanced;41;41;Fast build up;Forward runs;61;4
+Westerlo;Jupiler Pro League;0;Belgium;69;68;69;68;Molton Road (Sheldon Stadium);Balanced;41;41;Slow build up;Possession;51;3
+OH Leuven;Jupiler Pro League;0;Belgium;69;65;69;67;Court Lane;Balanced;51;41;Long ball;Direct passing;41;3
+Racing Santander;La Liga 2;0;Spain;69;67;69;68;Stade Municipal;Balanced;41;41;Fast build up;Forward runs;51;3
+Albacete;La Liga 2;0;Spain;69;69;69;69;Estadio Nacional (El Medio);Balanced;51;41;Fast build up;Forward runs;51;4
+Burgos;La Liga 2;0;Spain;69;69;70;69;Court Lane;Balanced;41;41;Long ball;Direct passing;61;4
+FC Cartagena;La Liga 2;0;Spain;69;68;69;70;Stadio Classico;Balanced;51;51;Balanced;Balanced;51;3
+Huesca;La Liga 2;0;Spain;69;68;68;69;El Alcoraz;Balanced;51;41;Fast build up;Forward runs;61;4
+Junior;Liga BetPlay;0;Colombia;69;74;69;69;O Dromo;Press after possession loss;51;51;Balanced;Balanced;51;7
+Deportes Tolima;Liga BetPlay;0;Colombia;69;69;69;68;Arena d'Oro;Balanced;71;51;Fast build up;Forward runs;71;3
+Deportivo Pereira;Liga BetPlay;0;Colombia;69;70;69;70;Arena d'Oro;Balanced;51;51;Balanced;Balanced;51;3
+Farense;Liga Portugal;0;Portugal;69;68;69;67;Court Lane;Balanced;41;51;Fast build up;Forward runs;61;3
+Chaves;Liga Portugal;0;Portugal;69;68;69;70;Stadion 23. Maj;Pressure on heavy touch;61;61;Balanced;Balanced;61;8
+Boavista;Liga Portugal;0;Portugal;69;67;70;70;Stade Municipal;Pressure on heavy touch;41;51;Long ball;Direct passing;51;3
+Estoril;Liga Portugal;0;Portugal;69;69;66;69;_Oktigann Park;Balanced;51;51;Fast build up;Forward runs;61;4
+Portimonense;Liga Portugal;0;Portugal;69;69;69;67;_Oktigann Park;Balanced;51;41;Long ball;Direct passing;61;3
+Casa Pia;Liga Portugal;0;Portugal;69;69;66;70;Euro Arena;Balanced;51;51;Long ball;Direct passing;51;3
+Emelec;Liga Pro;0;Ecuador;69;70;68;68;Eastpoint Arena (Football Ground);Pressure on heavy touch;61;61;Fast build up;Forward runs;61;3
+Newell's Old Boys;Liga Profesional;0;Argentina;69;68;70;70;Estadio Nacional (El Medio);Balanced;51;51;Slow build up;Possession;61;6
+Banfield;Liga Profesional;0;Argentina;69;70;69;68;Estadio Nacional (El Medio);Balanced;61;51;Fast build up;Forward runs;71;5
+Instituto;Liga Profesional;0;Argentina;69;71;68;67;Estadio Nacional (El Medio);Balanced;51;51;Slow build up;Possession;51;3
+Belgrano;Liga Profesional;0;Argentina;69;69;69;68;Stadio Classico;Balanced;61;41;Long ball;Direct passing;71;3
+Godoy Cruz;Liga Profesional;0;Argentina;69;69;69;70;El Libertador (La Bombastico);Balanced;61;61;Slow build up;Possession;51;6
+Platense;Liga Profesional;0;Argentina;69;68;69;69;Crown Lane;Balanced;61;41;Long ball;Direct passing;61;3
+Central Cordoba SdE;Liga Profesional;0;Argentina;69;71;68;69;Sanderson Park (FIFA 13 NEW generic);Balanced;61;41;Long ball;Direct passing;61;3
+Bordeaux;Ligue 2;0;France;69;70;68;70;Waldstadion (Fussballstadion);Balanced;51;51;Balanced;Balanced;51;4
+Angers SCO;Ligue 2;0;France;69;70;70;69;Forest Park Stadium (Square Ground);Balanced;41;51;Balanced;Balanced;61;4
+Dallas;Major League Soccer;0;United States;69;73;71;65;Crown Lane;Pressure on heavy touch;41;71;Balanced;Balanced;71;7
+Sporting Kansas City;Major League Soccer;0;United States;69;72;70;66;Stadion Neder;Press after possession loss;71;71;Slow build up;Possession;71;7
+Real Salt Lake;Major League Soccer;0;United States;69;72;69;66;Crown Lane;Balanced;61;51;Fast build up;Forward runs;61;4
+Orlando City;Major League Soccer;0;United States;69;65;71;64;Ivy Lane;Balanced;61;51;Balanced;Balanced;61;5
+New York City;Major League Soccer;0;United States;69;67;69;69;Stadion Europa (Generic Europe 2);Pressure on heavy touch;41;61;Slow build up;Possession;41;5
+Atlanta United;Major League Soccer;0;United States;69;74;69;68;Mercedes-Benz Stadium;Pressure on heavy touch;51;61;Fast build up;Forward runs;61;7
+Nashville SC;Major League Soccer;0;United States;69;71;70;69;Stadio Classico;Balanced;51;41;Fast build up;Forward runs;41;3
+Universidad Católica;Primera Division CL;0;Chile;69;72;69;70;Arena del Centenario (Estadio del Pueblo);Press after possession loss;61;41;Slow build up;Possession;81;4
+Sporting Cristal;Primera Division PE;0;Peru;69;69;70;70;Arena del Centenario (Estadio del Pueblo);Pressure on heavy touch;51;71;Slow build up;Possession;61;3
+Universitario;Primera Division PE;0;Peru;69;69;70;69;El Libertador (La Bombastico);Balanced;51;51;Fast build up;Forward runs;51;4
+Al Fateh;Pro League;0;Saudi Arabia;69;73;69;66;Stade Kokoto (Generic Africa 2);Balanced;51;51;Fast build up;Forward runs;61;4
+Goiás;Serie A BR;0;Brazil;69;70;68;69;O Dromo;Balanced;51;41;Balanced;Balanced;51;3
+Venezia;Serie B;0;Italy;69;70;68;69;Town Park;Press after possession loss;61;51;Slow build up;Possession;61;5
+Sampdoria;Serie B;0;Italy;69;70;68;68;Stadion Europa (Generic Europe 2);Balanced;51;51;Long ball;Direct passing;51;5
+Bari 1908;Serie B;0;Italy;69;63;69;68;Stadion Olympik;Balanced;41;61;Long ball;Direct passing;41;3
+Basel;Super League CH;0;Switzerland;69;68;69;67;Waldstadion (Fussballstadion);Press after possession loss;61;61;Slow build up;Possession;61;6
+Antalyaspor;Super Lig;0;Turkey;69;71;69;69;Stadion Olympik;Pressure on heavy touch;61;51;Balanced;Balanced;61;4
+Sivasspor;Super Lig;0;Turkey;69;72;69;66;Stadion Europa (Generic Europe 2);Balanced;61;51;Long ball;Direct passing;71;3
+Gaziantep F.K.;Super Lig;0;Turkey;69;68;70;68;Stade Municipal;Balanced;51;41;Fast build up;Forward runs;61;3
+Pendikspor;Super Lig;0;Turkey;69;70;70;68;_Longville Stadium;Balanced;51;51;Long ball;Direct passing;51;3
+Brøndby;Superliga;0;Denmark;69;71;71;68;Waldstadion (Fussballstadion);Press after possession loss;51;51;Balanced;Balanced;51;3
+Hansa Rostock;2. Bundesliga;0;Germany;68;69;68;67;Stade Municipal;Pressure on heavy touch;61;61;Long ball;Direct passing;61;6
+SpVgg Greuther Fürth;2. Bundesliga;0;Germany;68;67;68;67;Sportpark Ronhof Thomas Sommer;Pressure on heavy touch;61;81;Balanced;Balanced;51;6
+Holstein Kiel;2. Bundesliga;0;Germany;68;68;68;67;Crown Lane;Balanced;61;41;Balanced;Balanced;71;4
+Magdeburg;2. Bundesliga;0;Germany;68;68;68;68;Stadion Neder;Balanced;61;71;Slow build up;Possession;71;8
+Rapid Wien;Bundesliga AT;0;Austria;68;73;67;68;Stadion Europa (Generic Europe 2);Press after possession loss;71;51;Slow build up;Possession;61;5
+Austria Wien;Bundesliga AT;0;Austria;68;63;68;67;Stade Municipal;Balanced;61;51;Fast build up;Forward runs;61;4
+Sheffield Wednesday;Championship;0;England;68;68;69;67;Ivy Lane;Press after possession loss;61;51;Balanced;Balanced;81;4
+Huddersfield Town;Championship;0;England;68;68;66;67;Kirklees Stadium;Balanced;61;61;Fast build up;Forward runs;61;4
+Legia Warszawa;Ekstraklasa;0;Poland;68;68;69;67;Waldstadion (Fussballstadion);Press after possession loss;51;71;Balanced;Balanced;71;5
+Pogoń Szczecin;Ekstraklasa;0;Poland;68;68;67;67;Stadion Neder;Pressure on heavy touch;51;61;Slow build up;Possession;81;6
+Molde;Eliteserien;0;Norway;68;69;68;68;Stadion Neder;Balanced;41;41;Balanced;Balanced;61;5
+Fortuna Sittard;Eredivisie;0;Netherlands;68;67;68;68;Molton Road (Sheldon Stadium);Balanced;51;51;Fast build up;Forward runs;51;3
+Vitesse;Eredivisie;0;Netherlands;68;67;69;67;Stade Municipal;Balanced;61;51;Balanced;Balanced;61;4
+RWDM;Jupiler Pro League;0;Belgium;68;69;66;67;Crown Lane;Balanced;51;61;Fast build up;Forward runs;41;4
+Kortrijk;Jupiler Pro League;0;Belgium;68;70;67;66;Court Lane;Balanced;51;41;Balanced;Balanced;51;3
+Mechelen;Jupiler Pro League;0;Belgium;68;67;69;68;Stadion Europa (Generic Europe 2);Balanced;61;41;Balanced;Balanced;61;4
+Leganés;La Liga 2;0;Spain;68;69;68;69;Municipal de Butarque;Balanced;51;61;Balanced;Balanced;51;3
+FC Andorra;La Liga 2;0;Spain;68;65;67;67;Town Park;Balanced;61;41;Slow build up;Possession;51;3
+Eldense;La Liga 2;0;Spain;68;68;66;67;Town Park;Balanced;61;51;Slow build up;Possession;61;3
+FCSB;Liga 1;0;Romania;68;70;69;68;Waldstadion (Fussballstadion);Balanced;51;51;Fast build up;Forward runs;51;5
+Rionegro Águilas;Liga BetPlay;0;Colombia;68;68;69;69;Arena del Centenario (Estadio del Pueblo);Balanced;61;41;Fast build up;Forward runs;71;3
+Estrela Amadora;Liga Portugal;0;Portugal;68;68;67;69;Town Park;Balanced;51;51;Slow build up;Possession;51;3
+Gil Vicente;Liga Portugal;0;Portugal;68;66;69;66;Court Lane;Balanced;41;51;Fast build up;Forward runs;71;4
+Moreirense;Liga Portugal;0;Portugal;68;68;68;68;_Longville Stadium;Balanced;51;41;Long ball;Direct passing;61;3
+Vizela;Liga Portugal;0;Portugal;68;67;69;69;_Longville Stadium;Balanced;51;61;Slow build up;Possession;61;3
+Gimnasia La Plata;Liga Profesional;0;Argentina;68;69;68;68;Arena del Centenario (Estadio del Pueblo);Balanced;51;51;Fast build up;Forward runs;61;5
+Unión Santa Fe;Liga Profesional;0;Argentina;68;67;68;68;Estadio Nacional (El Medio);Balanced;61;61;Balanced;Balanced;61;3
+Sarmiento;Liga Profesional;0;Argentina;68;69;65;69;Arena d'Oro;Pressure on heavy touch;51;51;Fast build up;Forward runs;61;4
+Barracas Central;Liga Profesional;0;Argentina;68;69;69;68;_Longville Stadium;Pressure on heavy touch;61;41;Balanced;Balanced;61;5
+Auxerre;Ligue 2;0;France;68;68;68;69;Forest Park Stadium (Square Ground);Balanced;41;61;Balanced;Balanced;61;4
+Caen;Ligue 2;0;France;68;68;67;69;Stade Municipal;Balanced;41;51;Fast build up;Forward runs;61;3
+Troyes;Ligue 2;0;France;68;67;68;67;Stadion Neder;Balanced;41;51;Balanced;Balanced;61;5
+Ajaccio;Ligue 2;0;France;68;67;69;67;Crown Lane;Balanced;61;51;Fast build up;Forward runs;61;4
+Amiens SC;Ligue 2;0;France;68;67;68;65;Stadion Neder;Balanced;71;37;Fast build up;Forward runs;61;3
+Columbus Crew;Major League Soccer;0;United States;68;71;69;66;Stadion Neder;Press after possession loss;51;71;Fast build up;Forward runs;51;6
+DC United;Major League Soccer;0;United States;68;69;70;67;Crown Lane;Pressure on heavy touch;51;61;Long ball;Direct passing;51;4
+New York RB;Major League Soccer;0;United States;68;67;67;68;Red Bull Arena (New Jersey);Press after possession loss;61;61;Long ball;Direct passing;61;5
+Chicago Fire;Major League Soccer;0;United States;68;68;69;68;El Monumento (Estadio Latino);Balanced;51;41;Balanced;Balanced;61;7
+Colorado Rapids;Major League Soccer;0;United States;68;67;65;67;Euro Arena;Balanced;41;41;Long ball;Direct passing;61;4
+Houston Dynamo;Major League Soccer;0;United States;68;64;68;66;Stadion Neder;Pressure on heavy touch;51;51;Slow build up;Possession;71;4
+Vancouver Whitecaps;Major League Soccer;0;Canada;68;70;68;68;BC Place Stadium;Pressure on heavy touch;31;37;Fast build up;Forward runs;51;3
+Toronto;Major League Soccer;0;Canada;68;73;67;65;Crown Lane;Balanced;51;51;Balanced;Balanced;61;3
+Saint Louis City;Major League Soccer;0;United States;68;71;69;67;Stadion Neder;Press after possession loss;61;71;Fast build up;Forward runs;51;5
+Austin;Major League Soccer;0;United States;68;68;70;65;Molton Road (Sheldon Stadium);Balanced;71;81;Slow build up;Possession;81;5
+Charlotte;Major League Soccer;0;United States;68;73;69;67;Stadio Classico;Balanced;41;41;Fast build up;Forward runs;51;4
+Melgar;Primera Division PE;0;Peru;68;69;68;68;El Monumento (Estadio Latino);Press after possession loss;51;51;Fast build up;Forward runs;61;4
+Al Wahda;Pro League;0;Saudi Arabia;68;74;68;67;Stade Kokoto (Generic Africa 2);Balanced;51;51;Fast build up;Forward runs;71;3
+Al Fayha;Pro League;0;Saudi Arabia;68;72;69;65;Stade Kokoto (Generic Africa 2);Balanced;41;41;Balanced;Balanced;51;4
+Damac;Pro League;0;Saudi Arabia;68;67;71;65;Stade Kokoto (Generic Africa 2);Balanced;41;41;Balanced;Balanced;51;3
+Brescia;Serie B;0;Italy;68;67;67;68;Euro Park;Balanced;51;51;Slow build up;Possession;51;5
+Ascoli;Serie B;0;Italy;68;67;67;68;Arena d'Oro;Balanced;61;41;Balanced;Balanced;51;3
+Shandong Taishan;Super League CN;0;China PR;68;73;67;68;Stadion Hanguk;Balanced;51;51;Balanced;Balanced;51;6
+Shanghai Port;Super League CN;0;China PR;68;69;69;68;Stadion Olympik;Press after possession loss;51;71;Slow build up;Possession;61;5
+Wuhan Three Towns;Super League CN;0;China PR;68;74;67;68;Euro Arena;Balanced;51;51;Balanced;Balanced;51;3
+Servette;Super League CH;0;Switzerland;68;69;70;67;Stadion Neder;Balanced;51;41;Fast build up;Forward runs;81;4
+St. Gallen;Super League CH;0;Switzerland;68;66;69;67;Stadion Neder;Press after possession loss;51;51;Balanced;Balanced;51;5
+Alanyaspor;Super Lig;0;Turkey;68;69;70;66;Stadion Neder;Balanced;51;51;Slow build up;Possession;61;6
+Nordsjælland;Superliga;0;Denmark;68;69;68;68;Stadion Neder;Balanced;51;61;Slow build up;Possession;61;6
+Osnabrück;2. Bundesliga;0;Germany;67;66;68;66;Court Lane;Balanced;41;61;Long ball;Direct passing;61;7
+Eintracht Braunschweig;2. Bundesliga;0;Germany;67;67;68;67;Euro Arena;Balanced;51;37;Long ball;Direct passing;71;3
+AIK;Allsvenskan;0;Sweden;67;65;64;67;Waldstadion (Fussballstadion);Balanced;51;51;Balanced;Balanced;61;4
+Rotherham United;Championship;0;England;67;67;68;65;Molton Road (Sheldon Stadium);Balanced;41;41;Long ball;Direct passing;61;3
+Plymouth Argyle;Championship;0;England;67;67;67;67;Molton Road (Sheldon Stadium);Balanced;61;41;Balanced;Balanced;51;6
+Rosenborg;Eliteserien;0;Norway;67;66;67;66;Forest Park Stadium (Square Ground);Balanced;61;71;Balanced;Balanced;71;4
+Viking;Eliteserien;0;Norway;67;69;65;66;Molton Road (Sheldon Stadium);Press after possession loss;51;51;Fast build up;Forward runs;61;4
+Heracles Almelo;Eredivisie;0;Netherlands;67;67;66;66;Stadion Neder;Balanced;51;61;Balanced;Balanced;51;4
+Sparta Rotterdam;Eredivisie;0;Netherlands;67;67;68;66;Stadion Neder;Balanced;41;51;Fast build up;Forward runs;51;5
+Cercle Brugge;Jupiler Pro League;0;Belgium;67;68;65;66;Waldstadion (Fussballstadion);Press after possession loss;31;51;Fast build up;Forward runs;61;6
+Seoul;K League 1;0;Korea Republic;67;60;68;67;Sanderson Park (FIFA 13 NEW generic);Press after possession loss;51;61;Fast build up;Forward runs;51;8
+Pohang Steelers;K League 1;0;Korea Republic;67;71;67;69;Stadion Hanguk;Balanced;41;51;Balanced;Balanced;61;3
+Jeju United;K League 1;0;Korea Republic;67;67;64;67;Estadio de las Artes (Generic Stadium NG);Pressure on heavy touch;41;51;Fast build up;Forward runs;51;3
+Incheon United;K League 1;0;Korea Republic;67;68;70;66;Estadio de las Artes (Generic Stadium NG);Balanced;71;41;Balanced;Balanced;61;3
+Suwon;K League 1;0;Korea Republic;67;68;67;65;Stadion 23. Maj;Balanced;51;51;Fast build up;Forward runs;61;5
+Alcorcón;La Liga 2;0;Spain;67;69;67;67;Town Park;Balanced;61;41;Balanced;Balanced;51;3
+Racing Ferrol;La Liga 2;0;Spain;67;68;68;65;Town Park;Balanced;61;41;Fast build up;Forward runs;61;3
+Derby County;League One;0;England;67;66;66;67;Molton Road (Sheldon Stadium);Balanced;51;51;Fast build up;Forward runs;71;5
+Universitatea Craiova;Liga 1;0;Romania;67;68;68;65;Sanderson Park (FIFA 13 NEW generic);Balanced;61;51;Fast build up;Forward runs;61;4
+SSC Farul;Liga 1;0;Romania;67;65;69;65;_Oktigann Park;Pressure on heavy touch;51;61;Balanced;Balanced;71;5
+CFR Cluj;Liga 1;0;Romania;67;66;68;66;Stadium Random;Balanced;41;51;Balanced;Balanced;51;5
+Santa Fe;Liga BetPlay;0;Colombia;67;73;67;68;Stadio Classico;Balanced;41;51;Fast build up;Forward runs;61;4
+Bolívar;Liga De Futbol Prof;0;Bolivia;67;68;66;66;Estadio Nacional (El Medio);Balanced;61;51;Fast build up;Forward runs;51;5
+The Strongest;Liga De Futbol Prof;0;Bolivia;67;69;66;65;El Monumento (Estadio Latino);Balanced;51;41;Fast build up;Forward runs;51;4
+Deportivo Cuenca;Liga Pro;0;Ecuador;67;67;67;66;Arena d'Oro;Balanced;41;41;Balanced;Balanced;51;3
+Aucas;Liga Pro;0;Ecuador;67;68;66;66;Arena del Centenario (Estadio del Pueblo);Balanced;51;51;Fast build up;Forward runs;61;4
+Guingamp;Ligue 2;0;France;67;67;66;66;Court Lane;Balanced;51;61;Fast build up;Forward runs;61;3
+Grenoble Foot 38;Ligue 2;0;France;67;65;67;67;Stadion Neder;Balanced;51;51;Fast build up;Forward runs;61;3
+Laval;Ligue 2;0;France;67;67;67;66;Town Park;Balanced;51;41;Fast build up;Forward runs;61;3
+Pau;Ligue 2;0;France;67;67;66;66;_Longville Stadium;Balanced;61;51;Fast build up;Forward runs;61;5
+Paris;Ligue 2;0;France;67;68;68;67;Euro Arena;Balanced;61;51;Slow build up;Possession;61;5
+CF Montréal;Major League Soccer;0;Canada;67;67;67;66;Molton Road (Sheldon Stadium);Balanced;51;51;Slow build up;Possession;71;3
+Aberdeen;Premiership;0;Scotland;67;70;66;66;Ivy Lane;Balanced;61;51;Balanced;Balanced;71;5
+Hibernian;Premiership;0;Scotland;67;66;68;65;Ivy Lane;Balanced;51;61;Fast build up;Forward runs;61;4
+Cobresal;Primera Division CL;0;Chile;67;71;67;65;Arena d'Oro;Balanced;51;41;Fast build up;Forward runs;61;3
+Palestino;Primera Division CL;0;Chile;67;70;66;68;Arena d'Oro;Balanced;61;51;Fast build up;Forward runs;51;3
+Ñublense;Primera Division CL;0;Chile;67;70;66;66;Stadion Neder;Balanced;41;37;Fast build up;Forward runs;61;3
+Guaraní;Primera División PY;0;Paraguay;67;71;65;64;Aloha Park (Generic Oceania 2);Balanced;51;51;Fast build up;Forward runs;61;5
+Cienciano;Primera Division PE;0;Peru;67;69;68;66;Estadio de las Artes (Generic Stadium NG);Balanced;51;51;Fast build up;Forward runs;51;3
+Danubio;Primera Division UY;0;Uruguay;67;67;66;67;Arena del Centenario (Estadio del Pueblo);Press after possession loss;51;51;Slow build up;Possession;61;3
+Liverpool;Primera Division UY;0;Uruguay;67;69;68;66;Arena del Centenario (Estadio del Pueblo);Balanced;51;51;Slow build up;Possession;81;8
+River Plate;Primera Division UY;0;Uruguay;67;66;67;67;Arena del Centenario (Estadio del Pueblo);Balanced;61;51;Balanced;Balanced;71;4
+Academia Puerto Cabello;Primera Division VE;0;Venezuela;67;68;66;67;Arena d'Oro;Balanced;61;51;Long ball;Direct passing;41;3
+Abha;Pro League;0;Saudi Arabia;67;66;69;64;Stade Kokoto (Generic Africa 2);Balanced;51;51;Balanced;Balanced;51;4
+Ternana;Serie B;0;Italy;67;70;65;68;Stadion 23. Maj;Press after possession loss;41;61;Slow build up;Possession;61;3
+Modena;Serie B;0;Italy;67;67;67;68;Crown Lane;Balanced;61;51;Slow build up;Possession;61;3
+Reggiana;Serie B;0;Italy;67;66;67;64;Forest Park Stadium (Square Ground);Balanced;41;37;Slow build up;Possession;51;3
+Cosenza;Serie B;0;Italy;67;69;67;67;Euro Arena;Balanced;51;51;Long ball;Direct passing;61;5
+FeralpiSalò;Serie B;0;Italy;67;64;66;67;Euro Arena;Balanced;51;51;Long ball;Direct passing;51;3
+Zürich;Super League CH;0;Switzerland;67;66;69;67;Euro Arena;Balanced;61;51;Slow build up;Possession;81;4
+Luzern;Super League CH;0;Switzerland;67;64;70;66;Molton Road (Sheldon Stadium);Pressure on heavy touch;51;51;Balanced;Balanced;61;4
+Lausanne Sport;Super League CH;0;Switzerland;67;67;68;65;Stadion Neder;Balanced;61;41;Fast build up;Forward runs;61;3
+Lugano;Super League CH;0;Switzerland;67;69;69;64;Euro Park;Pressure on heavy touch;51;51;Fast build up;Forward runs;61;4
+Hatayspor;Super Lig;0;Turkey;67;69;67;67;Molton Road (Sheldon Stadium);Balanced;51;51;Fast build up;Forward runs;51;5
+Rizespor;Super Lig;0;Turkey;67;69;66;64;Stadion Neder;Balanced;61;41;Balanced;Balanced;51;3
+Kasımpaşa;Super Lig;0;Turkey;67;69;67;66;Stadio Classico;Balanced;41;51;Balanced;Balanced;61;4
+Randers;Superliga;0;Denmark;67;66;64;66;Court Lane;Balanced;61;51;Balanced;Balanced;61;3
+Wehen Wiesbaden;2. Bundesliga;0;Germany;66;65;64;66;Stadion Neder;Pressure on heavy touch;51;61;Balanced;Balanced;51;5
+Elversberg;2. Bundesliga;0;Germany;66;66;66;66;Town Park;Pressure on heavy touch;51;71;Fast build up;Forward runs;51;4
+Saarbrücken;3. Liga;0;Germany;66;65;66;66;Stadion Neder;Balanced;41;51;Long ball;Direct passing;71;4
+Melbourne City;A-League;0;Australia;66;73;68;65;Stade Municipal;Balanced;61;61;Slow build up;Possession;61;4
+IFK Göteborg;Allsvenskan;0;Sweden;66;68;63;66;Stadion Neder;Balanced;51;51;Long ball;Direct passing;61;7
+Elfsborg;Allsvenskan;0;Sweden;66;66;63;67;Stade Municipal;Balanced;51;51;Long ball;Direct passing;51;5
+Djurgården;Allsvenskan;0;Sweden;66;66;68;66;Sanderson Park (FIFA 13 NEW generic);Press after possession loss;51;61;Fast build up;Forward runs;61;5
+Wolfsberger AC;Bundesliga AT;0;Austria;66;67;66;67;Euro Park;Pressure on heavy touch;41;51;Fast build up;Forward runs;41;3
+Zagłębie Lubin;Ekstraklasa;0;Poland;66;66;66;65;Molton Road (Sheldon Stadium);Balanced;51;51;Balanced;Balanced;71;4
+Piast Gliwice;Ekstraklasa;0;Poland;66;67;65;65;Molton Road (Sheldon Stadium);Balanced;51;51;Balanced;Balanced;51;4
+Radomiak Radom;Ekstraklasa;0;Poland;66;66;66;66;Euro Park;Balanced;51;51;Balanced;Balanced;61;3
+Vålerenga;Eliteserien;0;Norway;66;65;67;66;Ivy Lane;Pressure on heavy touch;51;61;Slow build up;Possession;61;6
+RKC Waalwijk;Eredivisie;0;Netherlands;66;66;64;67;Molton Road (Sheldon Stadium);Balanced;51;41;Balanced;Balanced;61;4
+PEC Zwolle;Eredivisie;0;Netherlands;66;68;66;66;Molton Road (Sheldon Stadium);Balanced;51;51;Balanced;Balanced;71;5
+Excelsior;Eredivisie;0;Netherlands;66;65;65;65;Court Lane;Balanced;41;41;Long ball;Direct passing;41;3
+Go Ahead Eagles;Eredivisie;0;Netherlands;66;67;66;67;Molton Road (Sheldon Stadium);Balanced;41;41;Fast build up;Forward runs;51;5
+AS Eupen;Jupiler Pro League;0;Belgium;66;67;67;65;Court Lane;Balanced;51;41;Balanced;Balanced;71;3
+Daejeon Citizen;K League 1;0;Korea Republic;66;66;67;65;Waldstadion (Fussballstadion);Balanced;51;61;Slow build up;Possession;41;3
+Suwon Bluewings;K League 1;0;Korea Republic;66;64;69;65;Estadio de las Artes (Generic Stadium NG);Balanced;51;51;Fast build up;Forward runs;61;3
+Daegu;K League 1;0;Korea Republic;66;69;65;65;Stadion Neder;Balanced;51;51;Long ball;Direct passing;61;3
+Gangwon;K League 1;0;Korea Republic;66;66;66;65;Euro Arena;Pressure on heavy touch;71;51;Long ball;Direct passing;61;4
+Mirandés;La Liga 2;0;Spain;66;64;66;66;Town Park;Press after possession loss;51;51;Balanced;Balanced;61;4
+Amorebieta;La Liga 2;0;Spain;66;65;66;67;Town Park;Balanced;51;37;Long ball;Direct passing;51;3
+Bolton Wanderers;League One;0;England;66;67;65;65;Sanderson Park (FIFA 13 NEW generic);Press after possession loss;51;51;Slow build up;Possession;71;5
+Charlton Athletic;League One;0;England;66;62;66;65;Forest Park Stadium (Square Ground);Balanced;61;51;Slow build up;Possession;61;3
+Reading;League One;0;England;66;59;65;64;Molton Road (Sheldon Stadium);Balanced;41;41;Long ball;Direct passing;51;3
+Blackpool;League One;0;England;66;66;65;66;Molton Road (Sheldon Stadium);Pressure on heavy touch;51;51;Long ball;Direct passing;61;3
+Barnsley;League One;0;England;66;64;67;63;Forest Park Stadium (Square Ground);Pressure on heavy touch;51;51;Fast build up;Forward runs;71;3
+Rapid Bucuresti;Liga 1;0;Romania;66;67;65;66;Molton Road (Sheldon Stadium);Balanced;51;41;Fast build up;Forward runs;61;4
+Sepsi;Liga 1;0;Romania;66;65;66;65;Stadion Neder;Balanced;51;51;Balanced;Balanced;51;4
+U Craiova 1948;Liga 1;0;Romania;66;65;66;65;Sanderson Park (FIFA 13 NEW generic);Balanced;51;51;Balanced;Balanced;61;6
+Arsenal de Sarandi;Liga Profesional;0;Argentina;66;65;67;67;Arena del Centenario (Estadio del Pueblo);Balanced;41;41;Fast build up;Forward runs;51;3
+Bastia;Ligue 2;0;France;66;65;69;64;Town Park;Balanced;51;51;Balanced;Balanced;61;3
+Valenciennes;Ligue 2;0;France;66;65;65;65;Waldstadion (Fussballstadion);Balanced;41;51;Balanced;Balanced;61;4
+Quevilly Rouen;Ligue 2;0;France;66;64;66;65;Town Park;Balanced;41;41;Long ball;Direct passing;61;3
+Magallanes;Primera Division CL;0;Chile;66;66;67;65;Aloha Park (Generic Oceania 2);Balanced;61;61;Fast build up;Forward runs;51;3
+Cerro Porteño;Primera División PY;0;Paraguay;66;69;65;64;Estadio Nacional (El Medio);Balanced;51;51;Fast build up;Forward runs;61;4
+César Vallejo;Primera Division PE;0;Peru;66;68;66;67;Euro Arena;Balanced;51;51;Fast build up;Forward runs;51;3
+Caracas;Primera Division VE;0;Venezuela;66;67;66;66;Euro Arena;Balanced;41;51;Long ball;Direct passing;51;4
+Deportivo Táchira;Primera Division VE;0;Venezuela;66;67;66;66;El Monumento (Estadio Latino);Balanced;61;51;Long ball;Direct passing;51;3
+Al Raed;Pro League;0;Saudi Arabia;66;68;67;62;Stade Kokoto (Generic Africa 2);Balanced;61;51;Fast build up;Forward runs;71;3
+Al Taawon;Pro League;0;Saudi Arabia;66;68;71;61;Stade Kokoto (Generic Africa 2);Pressure on heavy touch;61;61;Slow build up;Possession;61;4
+Al Khaleej;Pro League;0;Saudi Arabia;66;65;66;66;Stade Kokoto (Generic Africa 2);Balanced;61;51;Long ball;Direct passing;61;3
+Al Okhdood;Pro League;0;Saudi Arabia;66;72;66;65;Stade Kokoto (Generic Africa 2);Balanced;51;51;Long ball;Direct passing;51;3
+Catanzaro;Serie B;0;Italy;66;68;65;66;Stadio Classico;Balanced;51;51;Fast build up;Forward runs;51;3
+Südtirol;Serie B;0;Italy;66;68;65;64;_Longville Stadium;Pressure on heavy touch;51;41;Long ball;Direct passing;61;3
+Shanghai Shenhua;Super League CN;0;China PR;66;70;65;64;Stadion Olympik;Balanced;51;51;Long ball;Direct passing;51;4
+Beijing Guoan;Super League CN;0;China PR;66;71;65;67;Stadion Hanguk;Balanced;41;51;Slow build up;Possession;51;3
+İstanbulspor;Super Lig;0;Turkey;66;64;65;66;_Oktigann Park;Balanced;51;51;Fast build up;Forward runs;51;4
+Kayserispor;Super Lig;0;Turkey;66;66;68;66;Sanderson Park (FIFA 13 NEW generic);Press after possession loss;71;51;Long ball;Direct passing;61;5
+Silkeborg;Superliga;0;Denmark;66;65;66;65;Court Lane;Balanced;51;61;Fast build up;Forward runs;61;4
+Viborg;Superliga;0;Denmark;66;64;67;66;Court Lane;Balanced;51;51;Balanced;Balanced;71;3
+1860 München;3. Liga;0;Germany;65;66;65;64;Town Park;Balanced;51;51;Balanced;Balanced;51;4
+DSC Arminia Bielefeld;3. Liga;0;Germany;65;66;65;63;SchücoArena;Pressure on heavy touch;41;61;Fast build up;Forward runs;41;5
+Dynamo Dresden;3. Liga;0;Germany;65;65;66;64;Stadion Neder;Balanced;61;41;Long ball;Direct passing;71;5
+Sandhausen;3. Liga;0;Germany;65;68;64;65;Court Lane;Balanced;51;41;Long ball;Direct passing;51;3
+Viktoria Köln;3. Liga;0;Germany;65;63;65;65;Town Park;Balanced;51;51;Fast build up;Forward runs;61;4
+Ingolstadt;3. Liga;0;Germany;65;64;64;66;Stadion Neder;Balanced;51;51;Long ball;Direct passing;51;5
+Melbourne Victory;A-League;0;Australia;65;67;65;64;Stade Municipal;Balanced;41;41;Balanced;Balanced;61;3
+Norrköping;Allsvenskan;0;Sweden;65;64;65;63;Molton Road (Sheldon Stadium);Press after possession loss;51;71;Slow build up;Possession;61;5
+Hammarby;Allsvenskan;0;Sweden;65;64;63;65;Sanderson Park (FIFA 13 NEW generic);Pressure on heavy touch;61;51;Slow build up;Possession;61;4
+Austria Lustenau;Bundesliga AT;0;Austria;65;66;64;63;Stadion 23. Maj;Balanced;51;41;Fast build up;Forward runs;51;3
+Austria Klagenfurt;Bundesliga AT;0;Austria;65;64;65;67;Waldstadion (Fussballstadion);Balanced;51;41;Balanced;Balanced;61;4
+Hartberg;Bundesliga AT;0;Austria;65;64;65;64;Euro Park;Pressure on heavy touch;51;41;Long ball;Direct passing;51;3
+WSG Tirol;Bundesliga AT;0;Austria;65;63;66;64;_Longville Stadium;Balanced;51;41;Long ball;Direct passing;61;3
+Górnik Zabrze;Ekstraklasa;0;Poland;65;63;65;65;Waldstadion (Fussballstadion);Balanced;51;51;Fast build up;Forward runs;61;4
+Jagiellonia Białystok;Ekstraklasa;0;Poland;65;70;64;64;Waldstadion (Fussballstadion);Balanced;51;51;Balanced;Balanced;71;5
+Cracovia Kraków;Ekstraklasa;0;Poland;65;65;66;65;Stade Municipal;Balanced;61;41;Long ball;Direct passing;71;4
+Warta Poznań;Ekstraklasa;0;Poland;65;66;64;65;_Oktigann Park;Press after possession loss;51;51;Fast build up;Forward runs;61;4
+Lillestrøm;Eliteserien;0;Norway;65;63;67;65;Crown Lane;Balanced;61;51;Balanced;Balanced;61;4
+Brann;Eliteserien;0;Norway;65;65;64;65;Molton Road (Sheldon Stadium);Balanced;51;41;Balanced;Balanced;61;3
+Sarpsborg 08;Eliteserien;0;Norway;65;60;66;62;Court Lane;Balanced;41;61;Slow build up;Possession;51;4
+Almere City;Eredivisie;0;Netherlands;65;65;65;65;Court Lane;Balanced;61;41;Balanced;Balanced;51;4
+Sint-Truiden;Jupiler Pro League;0;Belgium;65;64;65;66;Forest Park Stadium (Square Ground);Balanced;41;41;Fast build up;Forward runs;51;4
+Gwangju;K League 1;0;Korea Republic;65;64;67;66;Town Park;Balanced;51;51;Fast build up;Forward runs;61;5
+Villarreal II;La Liga 2;0;Spain;65;65;66;65;Estadio de la Cerámica;Balanced;51;51;Balanced;Balanced;61;5
+Portsmouth;League One;0;England;65;70;64;66;Fratton Park;Pressure on heavy touch;51;61;Balanced;Balanced;61;4
+Wigan Athletic;League One;0;England;65;67;63;64;Ivy Lane;Balanced;61;41;Long ball;Direct passing;61;5
+Wycombe Wanderers;League One;0;England;65;64;65;64;Court Lane;Press after possession loss;61;51;Balanced;Balanced;71;5
+Peterborough United;League One;0;England;65;71;65;65;Court Lane;Balanced;61;61;Balanced;Balanced;61;6
+Oxford United;League One;0;England;65;65;65;65;Court Lane;Pressure on heavy touch;61;61;Slow build up;Possession;71;5
+Wrexham;League Two;0;Wales;65;59;63;65;Crown Lane;Balanced;51;61;Slow build up;Possession;71;6
+Universitatea Cluj;Liga 1;0;Romania;65;66;65;65;Stadion Hanguk;Balanced;51;51;Long ball;Direct passing;51;3
+Voluntari;Liga 1;0;Romania;65;64;64;65;_Longville Stadium;Balanced;61;41;Long ball;Direct passing;51;4
+Hermannstadt;Liga 1;0;Romania;65;63;65;64;Stadion 23. Maj;Balanced;61;51;Fast build up;Forward runs;61;5
+Blooming;Liga De Futbol Prof;0;Bolivia;65;67;65;62;Arena d'Oro;Balanced;51;51;Balanced;Balanced;61;3
+Delfin;Liga Pro;0;Ecuador;65;67;66;63;Stadion Neder;Balanced;61;51;Long ball;Direct passing;51;4
+Rodez;Ligue 2;0;France;65;65;64;65;Molton Road (Sheldon Stadium);Balanced;41;51;Long ball;Direct passing;71;3
+Annecy;Ligue 2;0;France;65;66;65;63;Euro Arena;Balanced;51;51;Balanced;Balanced;51;4
+Audax Italiano;Primera Division CL;0;Chile;65;70;65;64;Stadion Neder;Balanced;61;51;Fast build up;Forward runs;81;3
+Deportivo Binacional;Primera Division PE;0;Peru;65;64;67;64;Stadio Classico;Balanced;51;41;Fast build up;Forward runs;61;3
+Monagas;Primera Division VE;0;Venezuela;65;65;65;66;Stadion Neder;Balanced;51;51;Balanced;Balanced;51;3
+Estudiantes Mérida;Primera Division VE;0;Venezuela;65;65;65;65;Estadio de las Artes (Generic Stadium NG);Balanced;71;51;Long ball;Direct passing;71;4
+Metropolitanos;Primera Division VE;0;Venezuela;65;65;66;64;Aloha Park (Generic Oceania 2);Balanced;51;51;Fast build up;Forward runs;51;4
+Al Tai;Pro League;0;Saudi Arabia;65;65;67;64;Stade Kokoto (Generic Africa 2);Balanced;51;41;Long ball;Direct passing;51;3
+Al Riyadh;Pro League;0;Saudi Arabia;65;70;69;62;Stade Kokoto (Generic Africa 2);Balanced;51;51;Long ball;Direct passing;51;3
+Al Hazem;Pro League;0;Saudi Arabia;65;71;63;63;Stade Kokoto (Generic Africa 2);Balanced;51;51;Fast build up;Forward runs;51;3
+Lecco;Serie B;0;Italy;65;65;66;65;Euro Arena;Balanced;41;51;Balanced;Balanced;51;3
+Cittadella;Serie B;0;Italy;65;64;65;64;Aloha Park (Generic Oceania 2);Balanced;61;51;Long ball;Direct passing;61;4
+Chengdu Rongcheng;Super League CN;0;China PR;65;70;63;66;Crown Lane;Balanced;51;51;Balanced;Balanced;51;3
+Grasshopper;Super League CH;0;Switzerland;65;64;65;65;Euro Arena;Balanced;71;51;Fast build up;Forward runs;61;3
+Yverdon Sport;Super League CH;0;Switzerland;65;63;65;64;Town Park;Balanced;61;51;Balanced;Balanced;61;4
+OB;Superliga;0;Denmark;65;65;66;65;Court Lane;Balanced;71;51;Fast build up;Forward runs;71;3
+Lyngby;Superliga;0;Denmark;65;63;66;64;Euro Park;Press after possession loss;51;61;Fast build up;Forward runs;61;3
+Erzgebirge Aue;3. Liga;0;Germany;64;66;64;63;Stadion Neder;Pressure on heavy touch;51;61;Fast build up;Forward runs;71;6
+Rot-Weiss Essen;3. Liga;0;Germany;64;64;64;64;Stadion Neder;Pressure on heavy touch;51;51;Long ball;Direct passing;61;6
+Jahn Regensburg;3. Liga;0;Germany;64;63;64;63;Molton Road (Sheldon Stadium);Press after possession loss;61;61;Fast build up;Forward runs;51;5
+MSV Duisburg;3. Liga;0;Germany;64;65;64;64;Waldstadion (Fussballstadion);Balanced;51;51;Long ball;Direct passing;61;4
+VfB Lübeck;3. Liga;0;Germany;64;63;64;62;Town Park;Balanced;41;41;Fast build up;Forward runs;61;3
+Hallescher FC;3. Liga;0;Germany;64;64;63;64;Stadion Neder;Press after possession loss;51;71;Slow build up;Possession;61;5
+Verl;3. Liga;0;Germany;64;64;64;64;Town Park;Press after possession loss;61;61;Slow build up;Possession;51;3
+Waldhof Mannheim;3. Liga;0;Germany;64;64;64;65;Stadion Neder;Balanced;51;51;Fast build up;Forward runs;51;4
+Western Sydney Wanderers;A-League;0;Australia;64;69;63;63;Waldstadion (Fussballstadion);Balanced;41;41;Fast build up;Forward runs;61;4
+Western United;A-League;0;Australia;64;64;65;64;Stade Municipal;Balanced;51;51;Balanced;Balanced;61;4
+Kalmar;Allsvenskan;0;Sweden;64;64;65;65;Molton Road (Sheldon Stadium);Pressure on heavy touch;51;61;Slow build up;Possession;61;4
+Rheindorf Altach;Bundesliga AT;0;Austria;64;64;64;64;Molton Road (Sheldon Stadium);Balanced;51;51;Balanced;Balanced;61;3
+Widzew Lodz;Ekstraklasa;0;Poland;64;65;65;63;Stadion Neder;Balanced;71;51;Balanced;Balanced;71;3
+Korona Kielce;Ekstraklasa;0;Poland;64;64;64;63;Stadion Neder;Balanced;51;41;Long ball;Direct passing;61;5
+ŁKS Łódź;Ekstraklasa;0;Poland;64;63;64;64;Stadion 23. Maj;Balanced;51;51;Balanced;Balanced;61;4
+Śląsk Wrocław;Ekstraklasa;0;Poland;64;67;64;64;Waldstadion (Fussballstadion);Press after possession loss;51;51;Balanced;Balanced;61;4
+Stal Mielec;Ekstraklasa;0;Poland;64;66;65;63;Euro Park;Balanced;61;41;Long ball;Direct passing;71;5
+Stabæk;Eliteserien;0;Norway;64;66;64;64;Euro Park;Balanced;61;41;Long ball;Direct passing;51;4
+Strømsgodset;Eliteserien;0;Norway;64;62;64;65;Court Lane;Pressure on heavy touch;71;61;Fast build up;Forward runs;61;4
+HamKam;Eliteserien;0;Norway;64;64;63;64;Stadion Neder;Balanced;51;41;Fast build up;Forward runs;61;4
+FC Volendam;Eredivisie;0;Netherlands;64;64;63;64;Court Lane;Balanced;51;51;Balanced;Balanced;51;3
+Shrewsbury Town;League One;0;England;64;64;63;63;Court Lane;Balanced;61;41;Balanced;Balanced;71;3
+Lincoln City;League One;0;England;64;65;64;64;Crown Lane;Balanced;51;41;Balanced;Balanced;51;4
+Leyton Orient;League One;0;England;64;64;64;63;Court Lane;Balanced;51;51;Slow build up;Possession;51;3
+Bristol Rovers;League One;0;England;64;65;65;63;Court Lane;Pressure on heavy touch;51;71;Balanced;Balanced;51;3
+Burton Albion;League One;0;England;64;64;64;64;Town Park;Balanced;41;51;Long ball;Direct passing;61;4
+Fleetwood Town;League One;0;England;64;63;63;65;Town Park;Pressure on heavy touch;61;61;Balanced;Balanced;61;3
+Milton Keynes Dons;League Two;0;England;64;65;63;63;Molton Road (Sheldon Stadium);Balanced;51;61;Slow build up;Possession;71;4
+Stockport County;League Two;0;England;64;63;65;63;Town Park;Press after possession loss;51;81;Slow build up;Possession;61;6
+Dinamo Bucureşti;Liga 1;0;Romania;64;65;65;63;Euro Park;Balanced;61;51;Balanced;Balanced;61;4
+Petrolul 52;Liga 1;0;Romania;64;63;65;64;Molton Road (Sheldon Stadium);Balanced;51;41;Balanced;Balanced;51;3
+UTA Arad;Liga 1;0;Romania;64;64;64;64;Stadion Neder;Balanced;51;51;Balanced;Balanced;51;6
+Oriente Petrolero;Liga De Futbol Prof;0;Bolivia;64;67;64;64;Arena d'Oro;Balanced;51;51;Slow build up;Possession;51;4
+Guabirá;Liga De Futbol Prof;0;Bolivia;64;61;64;64;Arena del Centenario (Estadio del Pueblo);Balanced;51;51;Balanced;Balanced;51;3
+Concarneau;Ligue 2;0;France;64;62;62;64;Town Park;Balanced;61;51;Fast build up;Forward runs;51;4
+Livingston;Premiership;0;Scotland;64;64;64;63;Molton Road (Sheldon Stadium);Balanced;51;41;Long ball;Direct passing;61;3
+St. Johnstone;Premiership;0;Scotland;64;63;63;62;Court Lane;Pressure on heavy touch;51;51;Balanced;Balanced;61;3
+St. Mirren;Premiership;0;Scotland;64;62;68;64;Town Park;Balanced;51;51;Long ball;Direct passing;61;4
+General Caballero JLM;Primera División PY;0;Paraguay;64;63;65;64;Aloha Park (Generic Oceania 2);Balanced;51;51;Fast build up;Forward runs;51;3
+Sportivo Ameliano;Primera División PY;0;Paraguay;64;61;65;63;Aloha Park (Generic Oceania 2);Balanced;41;41;Balanced;Balanced;61;3
+Changchun Yatai;Super League CN;0;China PR;64;72;64;62;Euro Arena;Balanced;51;37;Long ball;Direct passing;51;3
+Henan;Super League CN;0;China PR;64;68;65;63;Stadion Olympik;Balanced;41;41;Fast build up;Forward runs;61;3
+Zhejiang;Super League CN;0;China PR;64;72;64;62;Stadion Olympik;Balanced;61;41;Balanced;Balanced;51;3
+Winterthur;Super League CH;0;Switzerland;64;65;64;63;Town Park;Balanced;61;37;Fast build up;Forward runs;61;3
+Stade Lausanne-Ouchy;Super League CH;0;Switzerland;64;65;64;63;Euro Arena;Balanced;61;61;Fast build up;Forward runs;61;4
+Vejle;Superliga;0;Denmark;64;63;64;64;Molton Road (Sheldon Stadium);Balanced;61;41;Long ball;Direct passing;51;3
+Preußen Münster;3. Liga;0;Germany;63;64;64;61;Euro Park;Pressure on heavy touch;61;61;Long ball;Direct passing;61;3
+Borussia Dortmund II;3. Liga;0;Germany;63;63;63;62;Stadion 23. Maj;Press after possession loss;41;71;Fast build up;Forward runs;41;4
+Adelaide United;A-League;0;Australia;63;63;62;63;Arena del Centenario (Estadio del Pueblo);Balanced;61;61;Balanced;Balanced;71;3
+Perth Glory;A-League;0;Australia;63;66;62;63;Forest Park Stadium (Square Ground);Balanced;51;41;Balanced;Balanced;61;3
+Sydney;A-League;0;Australia;63;65;62;63;Sanderson Park (FIFA 13 NEW generic);Pressure on heavy touch;51;51;Slow build up;Possession;61;4
+Macarthur;A-League;0;Australia;63;72;62;62;Arena d'Oro;Balanced;41;41;Fast build up;Forward runs;61;5
+Halmstad;Allsvenskan;0;Sweden;63;62;61;64;Town Park;Balanced;41;41;Slow build up;Possession;41;3
+Brommapojkarna;Allsvenskan;0;Sweden;63;61;63;64;_Longville Stadium;Balanced;51;41;Slow build up;Possession;61;6
+Värnamo;Allsvenskan;0;Sweden;63;68;63;62;Euro Park;Balanced;41;51;Fast build up;Forward runs;51;5
+Sirius;Allsvenskan;0;Sweden;63;61;65;61;Town Park;Pressure on heavy touch;51;61;Slow build up;Possession;51;4
+Degerfors;Allsvenskan;0;Sweden;63;62;63;63;Town Park;Balanced;61;51;Fast build up;Forward runs;51;4
+Tromsø;Eliteserien;0;Norway;63;61;64;62;Town Park;Pressure on heavy touch;61;61;Slow build up;Possession;61;6
+Haugesund;Eliteserien;0;Norway;63;63;64;62;Town Park;Balanced;51;51;Balanced;Balanced;61;6
+Aalesund;Eliteserien;0;Norway;63;62;62;63;Court Lane;Balanced;71;51;Fast build up;Forward runs;51;4
+Exeter City;League One;0;England;63;63;63;63;Town Park;Pressure on heavy touch;61;61;Fast build up;Forward runs;81;3
+Stevenage;League One;0;England;63;62;64;64;Town Park;Pressure on heavy touch;51;61;Long ball;Direct passing;61;3
+Carlisle United;League One;0;England;63;62;64;63;Crown Lane;Balanced;51;51;Long ball;Direct passing;61;5
+Port Vale;League One;0;England;63;62;63;64;Court Lane;Pressure on heavy touch;41;61;Long ball;Direct passing;61;4
+Northampton Town;League One;0;England;63;65;64;63;Court Lane;Pressure on heavy touch;41;71;Slow build up;Possession;61;3
+Cheltenham Town;League One;0;England;63;63;62;63;Court Lane;Balanced;61;41;Long ball;Direct passing;51;4
+Cambridge United;League One;0;England;63;63;63;64;Town Park;Balanced;41;41;Long ball;Direct passing;51;4
+Forest Green Rovers;League Two;0;England;63;62;61;63;Town Park;Balanced;51;37;Balanced;Balanced;61;3
+Gillingham;League Two;0;England;63;63;64;63;Court Lane;Balanced;41;51;Long ball;Direct passing;51;3
+Bradford City;League Two;0;England;63;63;63;61;Ivy Lane;Balanced;51;61;Slow build up;Possession;61;5
+Mansfield Town;League Two;0;England;63;62;63;63;Court Lane;Press after possession loss;41;61;Slow build up;Possession;51;5
+Salford City;League Two;0;England;63;63;63;64;Town Park;Balanced;61;61;Slow build up;Possession;71;4
+Botoşani;Liga 1;0;Romania;63;61;64;64;Stadion 23. Maj;Balanced;51;41;Fast build up;Forward runs;61;4
+CSM Politehnica Iași;Liga 1;0;Romania;63;61;63;63;Euro Park;Balanced;61;51;Balanced;Balanced;61;4
+Palmaflor del Trópico;Liga De Futbol Prof;0;Bolivia;63;60;63;63;Stadio Classico;Balanced;51;41;Balanced;Balanced;71;4
+Patronato;Liga Profesional;0;Argentina;63;61;65;63;Arena del Centenario (Estadio del Pueblo);Press after possession loss;51;51;Fast build up;Forward runs;61;3
+Dunkerque;Ligue 2;0;France;63;63;65;63;Stadion 23. Maj;Balanced;41;41;Balanced;Balanced;61;3
+Shamrock Rovers;Premier Division;0;Republic of Ireland;63;64;61;63;Town Park;Balanced;61;71;Slow build up;Possession;71;5
+Kilmarnock;Premiership;0;Scotland;63;64;62;64;Ivy Lane;Balanced;41;51;Balanced;Balanced;61;4
+Motherwell;Premiership;0;Scotland;63;61;63;62;Ivy Lane;Balanced;51;41;Fast build up;Forward runs;51;3
+Ross County;Premiership;0;Scotland;63;63;64;62;Town Park;Balanced;41;37;Long ball;Direct passing;51;4
+Tacuary;Primera División PY;0;Paraguay;63;61;64;62;Aloha Park (Generic Oceania 2);Balanced;41;51;Long ball;Direct passing;51;3
+Tianjin Jinmen Tiger;Super League CN;0;China PR;63;70;65;62;Stadion Olympik;Pressure on heavy touch;51;51;Balanced;Balanced;61;3
+Cangzhou Mighty Lions;Super League CN;0;China PR;63;69;61;63;Stadion Hanguk;Balanced;41;51;Fast build up;Forward runs;51;4
+ATK Mohun Bagan;Super League IN;0;India;63;65;64;63;O Dromo;Pressure on heavy touch;51;61;Fast build up;Forward runs;71;4
+Unterhaching;3. Liga;0;Germany;62;63;61;63;Town Park;Balanced;51;51;Slow build up;Possession;61;4
+Ulm;3. Liga;0;Germany;62;62;61;62;Euro Park;Balanced;61;51;Long ball;Direct passing;51;3
+Freiburg II;3. Liga;0;Germany;62;63;62;61;Town Park;Pressure on heavy touch;51;61;Slow build up;Possession;61;4
+Brisbane Roar;A-League;0;Australia;62;61;63;63;Court Lane;Balanced;41;37;Long ball;Direct passing;61;4
+Central Coast Mariners;A-League;0;Australia;62;60;63;62;Crown Lane;Balanced;61;51;Balanced;Balanced;61;4
+Newcastle Jets;A-League;0;Australia;62;58;64;61;Forest Park Stadium (Square Ground);Balanced;61;51;Slow build up;Possession;61;5
+Mjällby;Allsvenskan;0;Sweden;62;62;60;63;Court Lane;Balanced;61;51;Balanced;Balanced;61;3
+Blau-Weiß Linz;Bundesliga AT;0;Austria;62;64;62;61;Stadion Neder;Balanced;51;51;Balanced;Balanced;51;3
+Ruch Chorzów;Ekstraklasa;0;Poland;62;63;62;62;Stadion 23. Maj;Balanced;71;41;Long ball;Direct passing;71;3
+Odd;Eliteserien;0;Norway;62;60;62;63;Ivy Lane;Pressure on heavy touch;61;61;Balanced;Balanced;51;5
+Grimsby Town;League Two;0;England;62;63;62;62;Town Park;Press after possession loss;51;81;Balanced;Balanced;61;3
+Barrow;League Two;0;England;62;61;61;61;_Longville Stadium;Balanced;51;61;Fast build up;Forward runs;71;3
+Walsall;League Two;0;England;62;62;61;62;Court Lane;Pressure on heavy touch;51;51;Long ball;Direct passing;61;3
+Swindon Town;League Two;0;England;62;62;62;61;Court Lane;Balanced;61;41;Slow build up;Possession;71;3
+Colchester United;League Two;0;England;62;59;61;61;Court Lane;Pressure on heavy touch;51;51;Fast build up;Forward runs;61;6
+Notts County;League Two;0;England;62;66;63;60;Ivy Lane;Press after possession loss;51;81;Slow build up;Possession;81;4
+Harrogate Town;League Two;0;England;62;64;61;62;Town Park;Balanced;51;61;Balanced;Balanced;51;4
+AFC Wimbledon;League Two;0;England;62;62;62;60;Molton Road (Sheldon Stadium);Press after possession loss;41;51;Balanced;Balanced;41;3
+Oțelul Galați;Liga 1;0;Romania;62;61;63;60;Stadion 23. Maj;Balanced;51;51;Balanced;Balanced;51;3
+Derry City;Premier Division;0;Northern Ireland;62;60;62;61;Town Park;Balanced;51;51;Balanced;Balanced;61;3
+Dundee;Premiership;0;Scotland;62;60;62;62;Court Lane;Balanced;51;41;Long ball;Direct passing;61;3
+Qingdao Hainiu;Super League CN;0;China PR;62;70;62;62;Stadion Olympik;Balanced;51;51;Long ball;Direct passing;51;3
+Mumbai City;Super League IN;0;India;62;62;64;61;Court Lane;Pressure on heavy touch;51;61;Balanced;Balanced;61;4
+Wellington Phoenix;A-League;0;New Zealand;61;62;62;61;O Dromo;Balanced;61;41;Fast build up;Forward runs;61;3
+Varberg BoIS;Allsvenskan;0;Sweden;61;58;60;62;Euro Park;Balanced;71;41;Long ball;Direct passing;71;3
+Puszcza Niepołomice;Ekstraklasa;0;Poland;61;61;62;61;Stadion Neder;Balanced;51;41;Long ball;Direct passing;61;4
+Sandefjord;Eliteserien;0;Norway;61;64;60;61;Town Park;Balanced;51;41;Balanced;Balanced;51;3
+Doncaster Rovers;League Two;0;England;61;62;60;61;Molton Road (Sheldon Stadium);Balanced;51;41;Balanced;Balanced;61;3
+Tranmere Rovers;League Two;0;England;61;62;61;60;Ivy Lane;Balanced;61;51;Balanced;Balanced;51;6
+Accrington Stanley;League Two;0;England;61;59;62;59;Town Park;Press after possession loss;61;41;Long ball;Direct passing;61;3
+Sutton United;League Two;0;England;61;61;61;62;Town Park;Press after possession loss;51;81;Fast build up;Forward runs;51;6
+St Patrick's;Premier Division;0;Republic of Ireland;61;60;61;60;Town Park;Balanced;51;51;Fast build up;Forward runs;71;4
+Dundalk;Premier Division;0;Republic of Ireland;61;65;60;60;Town Park;Pressure on heavy touch;51;61;Slow build up;Possession;71;5
+Shenzhen;Super League CN;0;China PR;61;61;62;59;Estadio de las Artes (Generic Stadium NG);Balanced;51;51;Slow build up;Possession;51;6
+Dalian Professional;Super League CN;0;China PR;61;64;61;59;Stadion Olympik;Press after possession loss;61;51;Balanced;Balanced;61;3
+Nantong Zhiyun;Super League CN;0;China PR;61;63;62;60;Stadion 23. Maj;Balanced;51;51;Balanced;Balanced;51;3
+Meizhou Hakka;Super League CN;0;China PR;61;59;61;63;Stadion Olympik;Balanced;51;51;Balanced;Balanced;51;3
+Goa;Super League IN;0;India;61;65;62;60;O Dromo;Pressure on heavy touch;61;61;Slow build up;Possession;61;4
+Kerala Blasters;Super League IN;0;India;61;64;60;60;O Dromo;Pressure on heavy touch;51;51;Slow build up;Possession;61;3
+Crewe Alexandra;League Two;0;England;60;62;60;61;Court Lane;Balanced;61;41;Long ball;Direct passing;61;5
+Morecambe;League Two;0;England;60;57;60;61;Town Park;Balanced;41;37;Long ball;Direct passing;51;3
+Crawley Town;League Two;0;England;60;58;60;60;Town Park;Press after possession loss;61;61;Slow build up;Possession;71;4
+Newport County;League Two;0;Wales;60;61;60;60;Town Park;Balanced;41;51;Long ball;Direct passing;81;4
+Bohemians;Premier Division;0;Republic of Ireland;60;61;60;60;Town Park;Balanced;41;51;Balanced;Balanced;61;3
+Bengaluru;Super League IN;0;India;60;62;60;61;Arena d'Oro;Pressure on heavy touch;51;51;Fast build up;Forward runs;51;3
+Sligo Rovers;Premier Division;0;Republic of Ireland;59;63;58;60;Town Park;Press after possession loss;41;51;Balanced;Balanced;51;5
+Shelbourne;Premier Division;0;Republic of Ireland;59;60;57;59;_Longville Stadium;Balanced;61;51;Slow build up;Possession;71;3
+East Bengal;Super League IN;0;India;59;66;60;58;O Dromo;Balanced;51;51;Long ball;Direct passing;61;3
+Odisha FC;Super League IN;0;India;59;60;59;59;O Dromo;Balanced;51;51;Slow build up;Possession;51;4
+Hyderabad;Super League IN;0;India;58;58;60;56;Euro Arena;Balanced;61;51;Slow build up;Possession;71;4
+Jamshedpur;Super League IN;0;India;58;64;58;55;Arena d'Oro;Balanced;61;51;Fast build up;Forward runs;61;3
+Cork City;Premier Division;0;Republic of Ireland;57;58;58;56;Town Park;Balanced;61;51;Balanced;Balanced;61;4
+Drogheda United;Premier Division;0;Republic of Ireland;57;56;58;57;_Longville Stadium;Balanced;61;51;Long ball;Direct passing;61;4
+NorthEast United;Super League IN;0;India;57;57;61;57;Stade Kokoto (Generic Africa 2);Balanced;61;61;Long ball;Direct passing;51;3
+Chennaiyin;Super League IN;0;India;57;62;57;54;O Dromo;Balanced;61;51;Fast build up;Forward runs;51;3
+UCD;Premier Division;0;Republic of Ireland;55;54;55;55;_Longville Stadium;Balanced;51;41;Long ball;Direct passing;61;3
+Punjab;Super League IN;0;India;55;60;56;52;Stadion Olympik;Balanced;51;51;Long ball;Direct passing;51;4
